@@ -16,10 +16,10 @@ public class ContaControl {
     private Logger logger;
     private ClienteControl clienteControl;
 
-    public ContaControl(Integer quantidadeClientes, Double valorInicial, Integer limiteLogs) {
+    public ContaControl(Integer quantidadeClientes, Double valorInicial, Integer limiteLogs, Integer percentBanco) {
         this.conta = cadastrar(valorInicial);
-        this.clienteControl = new ClienteControl(quantidadeClientes, this);
-        this.logger = new Logger(limiteLogs);
+        this.clienteControl = new ClienteControl(quantidadeClientes, this, percentBanco);
+        this.logger = new Logger(limiteLogs + 1);
     }
 
 
@@ -46,10 +46,6 @@ public class ContaControl {
         BancoControl.getInstance()
                 .getConta(conta.getNumero())
                 .adicionarValor(valor);
-
-        if (clienteControl.existeClienteAguardando()) {
-            notifyAll();
-        }
 
         logger.printAcao(cliente, valor, conta.getValor(), clienteControl.getQuantidadeClientes());
 
@@ -84,10 +80,6 @@ public class ContaControl {
             logger.printAcao(cliente, valor, conta.getValor(), clienteControl.getQuantidadeClientes());
             cliente.setEmocao(EmocaoCliente.FELIZ);
 
-            if (clienteControl.existeClienteAguardando()) {
-                notifyAll();
-            }
-
         } else {
             logger.printSaida(cliente, conta.getValor(), clienteControl.getQuantidadeClientes());
             clienteControl.getClientes().remove(cliente);
@@ -96,6 +88,10 @@ public class ContaControl {
             }
 
             cliente.stop();
+        }
+
+        if (clienteControl.existeClienteAguardando()) {
+            notifyAll();
         }
     }
 

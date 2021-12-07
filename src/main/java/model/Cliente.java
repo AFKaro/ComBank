@@ -16,13 +16,15 @@ public class Cliente extends Thread {
     private StatusCliente status;
     private EmocaoCliente emocao;
     private ContaControl control;
+    private Integer percentBanco;
 
-    public Cliente(String nome, ContaControl control) {
+    public Cliente(String nome, ContaControl control, Integer percentBanco) {
         super(nome);
         this.nome = nome;
         this.status = StatusCliente.AGUARDANDO;
         this.emocao = EmocaoCliente.FELIZ;
         this.control = control;
+        this.percentBanco = percentBanco;
     }
 
     public void proximaEmocao() {
@@ -33,10 +35,11 @@ public class Cliente extends Thread {
         double valorDeposito, valorSaque;
 
         while (true) {
-            double bancoPercent = (control.getConta().getValor() / 100) * 20;
+            double bancoPercentSaque = (control.getConta().getValor() / 100) * this.percentBanco;
+            double bancoPercentDeposito = (control.getConta().getValor() / 100) * (this.percentBanco + 5);
 
-            valorDeposito = FakerUtil.getInstance().faker.number().randomDouble(2, 50, (int) bancoPercent);
-            valorSaque = FakerUtil.getInstance().faker.number().randomDouble(2, 50, (int) bancoPercent);
+            valorSaque = FakerUtil.getInstance().faker.number().randomDouble(2, 1, (int) bancoPercentSaque);
+            valorDeposito = FakerUtil.getInstance().faker.number().randomDouble(2, 1, (int) bancoPercentDeposito);
 
             control.sacar(this, valorSaque);
             control.depositar(this, valorDeposito);

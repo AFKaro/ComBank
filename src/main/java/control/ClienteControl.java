@@ -15,15 +15,15 @@ public class ClienteControl {
 
     private List<Cliente> clientes;
 
-    public ClienteControl(int quantidadeUsuarios, ContaControl contaControl) {
-        initUsuarioList(quantidadeUsuarios, contaControl);
+    public ClienteControl(Integer quantidadeUsuarios, ContaControl contaControl, Integer percentBanco) {
+        initUsuarioList(quantidadeUsuarios, contaControl, percentBanco);
     }
 
-    public void initUsuarioList(Integer qtd, ContaControl contaControl) {
+    public void initUsuarioList(Integer qtd, ContaControl contaControl, Integer percentBanco) {
         clientes = new ArrayList<>();
 
         IntStream.range(0, qtd).forEach(i -> {
-            Cliente cliente = new Cliente(FakerUtil.getInstance().faker.name().name(), contaControl);
+            Cliente cliente = new Cliente(FakerUtil.getInstance().faker.name().name(), contaControl, percentBanco);
             clientes.add(cliente);
         });
     }

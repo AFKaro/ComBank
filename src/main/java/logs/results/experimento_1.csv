@@ -1,0 +1,2001 @@
+nomeCliente,emocaoCliente,statusCliente,valor,foiEmbora,valorTotal,quantidadeClientes
+Ada Ruecker,feliz,sacando,6234.67,N,93765.33,10
+Ada Ruecker,feliz,depositando,20074.74,N,113840.07,10
+Andrew McDermott,feliz,sacando,17512.57,N,96327.5,10
+Andrew McDermott,feliz,depositando,23175.71,N,119503.20999999999,10
+Cassi Waters,feliz,sacando,1965.23,N,117537.98,10
+Cassi Waters,feliz,depositando,9119.49,N,126657.47,10
+Shawnda Lynch Sr.,feliz,sacando,6694.59,N,119962.88,10
+Shawnda Lynch Sr.,feliz,depositando,10627.08,N,130589.96,10
+Mr. Huong O'Hara,feliz,sacando,13276.4,N,117313.56000000001,10
+Mr. Huong O'Hara,feliz,depositando,24149.52,N,141463.08000000002,10
+Rolf Windler,feliz,sacando,729.26,N,140733.82,10
+Rolf Windler,feliz,depositando,23509.69,N,164243.51,10
+Mitchel Sawayn,feliz,sacando,6101.1,N,158142.41,10
+Mitchel Sawayn,feliz,depositando,9040.74,N,167183.15,10
+Rachelle Kris,feliz,sacando,10648.36,N,156534.78999999998,10
+Rachelle Kris,feliz,depositando,10133.49,N,166668.27999999997,10
+Ms. Kenneth Mosciski,feliz,sacando,11629.89,N,155038.38999999996,10
+Ms. Kenneth Mosciski,feliz,depositando,1210.85,N,156249.23999999996,10
+Annemarie Weissnat DDS,feliz,sacando,5220.48,N,151028.75999999995,10
+Annemarie Weissnat DDS,feliz,depositando,1674.15,N,152702.90999999995,10
+Ms. Kenneth Mosciski,feliz,sacando,24988.43,N,127714.47999999995,10
+Ms. Kenneth Mosciski,feliz,depositando,15718.39,N,143432.86999999994,10
+Rachelle Kris,feliz,sacando,31125.47,N,112307.39999999994,10
+Rachelle Kris,feliz,depositando,24028.82,N,136336.21999999994,10
+Mitchel Sawayn,feliz,sacando,24933.58,N,111402.63999999994,10
+Mitchel Sawayn,feliz,depositando,24380.64,N,135783.27999999994,10
+Rolf Windler,feliz,sacando,17479.77,N,118303.50999999994,10
+Rolf Windler,feliz,depositando,2564.69,N,120868.19999999994,10
+Mr. Huong O'Hara,feliz,sacando,949.55,N,119918.64999999994,10
+Mr. Huong O'Hara,feliz,depositando,28690.64,N,148609.28999999992,10
+Shawnda Lynch Sr.,feliz,sacando,1858.04,N,146751.2499999999,10
+Shawnda Lynch Sr.,feliz,depositando,18614.34,N,165365.5899999999,10
+Cassi Waters,feliz,sacando,8500.74,N,156864.84999999992,10
+Cassi Waters,feliz,depositando,6620.33,N,163485.1799999999,10
+Andrew McDermott,feliz,sacando,17646.38,N,145838.7999999999,10
+Andrew McDermott,feliz,depositando,26881.19,N,172719.9899999999,10
+Ada Ruecker,feliz,sacando,4095.62,N,168624.3699999999,10
+Ada Ruecker,feliz,depositando,18456.87,N,187081.2399999999,10
+Andrew McDermott,feliz,sacando,27879.8,N,159201.43999999992,10
+Andrew McDermott,feliz,depositando,32151.29,N,191352.72999999992,10
+Cassi Waters,feliz,sacando,19739.39,N,171613.3399999999,10
+Cassi Waters,feliz,depositando,2294.61,N,173907.9499999999,10
+Shawnda Lynch Sr.,feliz,sacando,4562.74,N,169345.2099999999,10
+Shawnda Lynch Sr.,feliz,depositando,31898.95,N,201244.15999999992,10
+Mr. Huong O'Hara,feliz,sacando,3204.6,N,198039.5599999999,10
+Mr. Huong O'Hara,feliz,depositando,13265.6,N,211305.15999999992,10
+Rolf Windler,feliz,sacando,14830.44,N,196474.7199999999,10
+Rolf Windler,feliz,depositando,27523.92,N,223998.6399999999,10
+Mitchel Sawayn,feliz,sacando,17484.58,N,206514.05999999988,10
+Mitchel Sawayn,feliz,depositando,19328.0,N,225842.05999999988,10
+Rachelle Kris,feliz,sacando,23215.73,N,202626.32999999987,10
+Rachelle Kris,feliz,depositando,3235.85,N,205862.17999999988,10
+Ms. Kenneth Mosciski,feliz,sacando,167.98,N,205694.19999999987,10
+Ms. Kenneth Mosciski,feliz,depositando,25874.35,N,231568.54999999987,10
+Annemarie Weissnat DDS,feliz,sacando,9633.84,N,221934.70999999988,10
+Annemarie Weissnat DDS,feliz,depositando,7823.38,N,229758.08999999988,10
+Ms. Kenneth Mosciski,feliz,sacando,12374.56,N,217383.52999999988,10
+Ms. Kenneth Mosciski,feliz,depositando,730.0,N,218113.52999999988,10
+Rachelle Kris,feliz,sacando,26728.53,N,191384.99999999988,10
+Rachelle Kris,feliz,depositando,22191.14,N,213576.1399999999,10
+Mitchel Sawayn,feliz,sacando,22253.4,N,191322.7399999999,10
+Mitchel Sawayn,feliz,depositando,29322.57,N,220645.3099999999,10
+Rolf Windler,feliz,sacando,13770.13,N,206875.1799999999,10
+Rolf Windler,feliz,depositando,17287.01,N,224162.18999999992,10
+Mr. Huong O'Hara,feliz,sacando,41186.69,N,182975.4999999999,10
+Mr. Huong O'Hara,feliz,depositando,50905.58,N,233881.0799999999,10
+Shawnda Lynch Sr.,feliz,sacando,10290.81,N,223590.2699999999,10
+Shawnda Lynch Sr.,feliz,depositando,21988.47,N,245578.7399999999,10
+Cassi Waters,feliz,sacando,13736.4,N,231842.3399999999,10
+Cassi Waters,feliz,depositando,33775.51,N,265617.8499999999,10
+Andrew McDermott,feliz,sacando,22921.48,N,242696.3699999999,10
+Andrew McDermott,feliz,depositando,11232.76,N,253929.12999999992,10
+Ada Ruecker,feliz,sacando,4314.65,N,249614.47999999992,10
+Ada Ruecker,feliz,depositando,16765.53,N,266380.0099999999,10
+Andrew McDermott,feliz,sacando,32735.81,N,233644.1999999999,10
+Andrew McDermott,feliz,depositando,60356.87,N,294001.0699999999,10
+Cassi Waters,feliz,sacando,47920.48,N,246080.58999999988,10
+Cassi Waters,feliz,depositando,53457.66,N,299538.2499999999,10
+Shawnda Lynch Sr.,feliz,sacando,37484.71,N,262053.5399999999,10
+Shawnda Lynch Sr.,feliz,depositando,18073.62,N,280127.1599999999,10
+Mr. Huong O'Hara,feliz,sacando,20382.38,N,259744.7799999999,10
+Mr. Huong O'Hara,feliz,depositando,52971.3,N,312716.0799999999,10
+Rolf Windler,feliz,sacando,29033.14,N,283682.9399999999,10
+Rolf Windler,feliz,depositando,45801.32,N,329484.2599999999,10
+Mitchel Sawayn,feliz,sacando,37828.77,N,291655.4899999999,10
+Mitchel Sawayn,feliz,depositando,21289.1,N,312944.58999999985,10
+Rachelle Kris,feliz,sacando,26113.55,N,286831.03999999986,10
+Rachelle Kris,feliz,depositando,38078.43,N,324909.46999999986,10
+Ms. Kenneth Mosciski,feliz,sacando,2577.0,N,322332.46999999986,10
+Ms. Kenneth Mosciski,feliz,depositando,8438.69,N,330771.15999999986,10
+Annemarie Weissnat DDS,feliz,sacando,33158.11,N,297613.0499999999,10
+Annemarie Weissnat DDS,feliz,depositando,25608.5,N,323221.5499999999,10
+Ms. Kenneth Mosciski,feliz,sacando,62128.47,N,261093.07999999987,10
+Ms. Kenneth Mosciski,feliz,depositando,62693.16,N,323786.2399999999,10
+Rachelle Kris,feliz,sacando,41096.47,N,282689.7699999999,10
+Rachelle Kris,feliz,depositando,59530.84,N,342220.60999999987,10
+Mitchel Sawayn,feliz,sacando,25443.73,N,316776.8799999999,10
+Mitchel Sawayn,feliz,depositando,10228.57,N,327005.4499999999,10
+Rolf Windler,feliz,sacando,1969.38,N,325036.0699999999,10
+Rolf Windler,feliz,depositando,76251.11,N,401287.1799999999,10
+Mr. Huong O'Hara,feliz,sacando,34764.95,N,366522.22999999986,10
+Mr. Huong O'Hara,feliz,depositando,11.08,N,366533.3099999999,10
+Shawnda Lynch Sr.,feliz,sacando,21579.39,N,344953.91999999987,10
+Shawnda Lynch Sr.,feliz,depositando,69837.15,N,414791.06999999983,10
+Cassi Waters,feliz,sacando,10538.26,N,404252.8099999998,10
+Cassi Waters,feliz,depositando,13905.18,N,418157.9899999998,10
+Andrew McDermott,feliz,sacando,3407.13,N,414750.8599999998,10
+Andrew McDermott,feliz,depositando,70431.7,N,485182.5599999998,10
+Cassi Waters,feliz,sacando,81666.62,N,403515.9399999998,10
+Cassi Waters,feliz,depositando,76179.84,N,479695.7799999998,10
+Shawnda Lynch Sr.,feliz,sacando,6699.66,N,472996.1199999998,10
+Shawnda Lynch Sr.,feliz,depositando,22608.48,N,495604.5999999998,10
+Mr. Huong O'Hara,feliz,sacando,3825.92,N,491778.6799999998,10
+Mr. Huong O'Hara,feliz,depositando,74156.56,N,565935.2399999998,10
+Rolf Windler,feliz,sacando,49456.49,N,516478.74999999977,10
+Rolf Windler,feliz,depositando,27939.19,N,544417.9399999997,10
+Mitchel Sawayn,feliz,sacando,25924.44,N,518493.4999999997,10
+Mitchel Sawayn,feliz,depositando,69738.9,N,588232.3999999997,10
+Rachelle Kris,feliz,sacando,46985.87,N,541246.5299999997,10
+Rachelle Kris,feliz,depositando,9958.08,N,551204.6099999996,10
+Ms. Kenneth Mosciski,feliz,sacando,50863.73,N,500340.87999999966,10
+Ms. Kenneth Mosciski,feliz,depositando,41050.1,N,541390.9799999996,10
+Annemarie Weissnat DDS,feliz,sacando,948.31,N,540442.6699999996,10
+Annemarie Weissnat DDS,feliz,depositando,80585.65,N,621028.3199999996,10
+Ms. Kenneth Mosciski,feliz,sacando,19830.68,N,601197.6399999995,10
+Ms. Kenneth Mosciski,feliz,depositando,127519.87,N,728717.5099999995,10
+Rachelle Kris,feliz,sacando,71234.53,N,657482.9799999995,10
+Rachelle Kris,feliz,depositando,73917.31,N,731400.2899999996,10
+Mitchel Sawayn,feliz,sacando,62267.1,N,669133.1899999996,10
+Mitchel Sawayn,feliz,depositando,70799.01,N,739932.1999999996,10
+Rolf Windler,feliz,sacando,21851.95,N,718080.2499999997,10
+Rolf Windler,feliz,depositando,75376.45,N,793456.6999999996,10
+Mr. Huong O'Hara,feliz,sacando,46240.96,N,747215.7399999996,10
+Mr. Huong O'Hara,feliz,depositando,88084.47,N,835300.2099999996,10
+Shawnda Lynch Sr.,feliz,sacando,37325.66,N,797974.5499999996,10
+Shawnda Lynch Sr.,feliz,depositando,13171.97,N,811146.5199999996,10
+Cassi Waters,feliz,sacando,45769.0,N,765377.5199999996,10
+Cassi Waters,feliz,depositando,93557.21,N,858934.7299999995,10
+Ada Ruecker,paciente,aguardando,38123.47,N,858934.7299999995,10
+Ada Ruecker,paciente,sacando,38123.47,N,820811.2599999995,10
+Ada Ruecker,feliz,depositando,34771.24,N,855582.4999999995,10
+Andrew McDermott,feliz,sacando,17545.75,N,838036.7499999995,10
+Andrew McDermott,feliz,depositando,58403.24,N,896439.9899999995,10
+Ada Ruecker,feliz,sacando,114431.04,N,782008.9499999995,10
+Ada Ruecker,feliz,depositando,88117.83,N,870126.7799999994,10
+Cassi Waters,feliz,sacando,113304.93,N,756821.8499999994,10
+Cassi Waters,feliz,depositando,46887.68,N,803709.5299999994,10
+Shawnda Lynch Sr.,feliz,sacando,64284.15,N,739425.3799999994,10
+Shawnda Lynch Sr.,feliz,depositando,92618.51,N,832043.8899999994,10
+Mr. Huong O'Hara,feliz,sacando,150123.58,N,681920.3099999995,10
+Mr. Huong O'Hara,feliz,depositando,206046.2,N,887966.5099999995,10
+Rolf Windler,feliz,sacando,3135.78,N,884830.7299999995,10
+Rolf Windler,feliz,depositando,176514.23,N,1061344.9599999995,10
+Mitchel Sawayn,feliz,sacando,39347.21,N,1021997.7499999995,10
+Mitchel Sawayn,feliz,depositando,91245.82,N,1113243.5699999996,10
+Rachelle Kris,feliz,sacando,132020.27,N,981223.2999999996,10
+Rachelle Kris,feliz,depositando,101411.49,N,1082634.7899999996,10
+Ms. Kenneth Mosciski,feliz,sacando,82542.38,N,1000092.4099999996,10
+Ms. Kenneth Mosciski,feliz,depositando,18012.05,N,1018104.4599999996,10
+Annemarie Weissnat DDS,feliz,sacando,90343.2,N,927761.2599999997,10
+Annemarie Weissnat DDS,feliz,depositando,98997.92,N,1026759.1799999997,10
+Ms. Kenneth Mosciski,feliz,sacando,140019.95,N,886739.2299999997,10
+Ms. Kenneth Mosciski,feliz,depositando,249582.94,N,1136322.1699999997,10
+Rachelle Kris,feliz,sacando,83426.86,N,1052895.3099999996,10
+Rachelle Kris,feliz,depositando,187620.04,N,1240515.3499999996,10
+Mitchel Sawayn,feliz,sacando,85069.36,N,1155445.9899999995,10
+Mitchel Sawayn,feliz,depositando,71915.79,N,1227361.7799999996,10
+Rolf Windler,feliz,sacando,90852.77,N,1136509.0099999995,10
+Rolf Windler,feliz,depositando,187452.1,N,1323961.1099999996,10
+Mr. Huong O'Hara,feliz,sacando,130036.7,N,1193924.4099999997,10
+Mr. Huong O'Hara,feliz,depositando,149869.87,N,1343794.2799999998,10
+Shawnda Lynch Sr.,feliz,sacando,26173.7,N,1317620.5799999998,10
+Shawnda Lynch Sr.,feliz,depositando,170507.54,N,1488128.1199999999,10
+Cassi Waters,feliz,sacando,51222.51,N,1436905.6099999999,10
+Cassi Waters,feliz,depositando,50052.1,N,1486957.71,10
+Ada Ruecker,feliz,sacando,15571.78,N,1471385.93,10
+Ada Ruecker,feliz,depositando,89811.44,N,1561197.3699999999,10
+Andrew McDermott,feliz,sacando,38172.64,N,1523024.73,10
+Andrew McDermott,feliz,depositando,160511.16,N,1683535.89,10
+Ada Ruecker,feliz,sacando,11178.93,N,1672356.96,10
+Ada Ruecker,feliz,depositando,262879.05,N,1935236.01,10
+Cassi Waters,feliz,sacando,16549.82,N,1918686.19,10
+Cassi Waters,feliz,depositando,116333.95,N,2035020.14,10
+Shawnda Lynch Sr.,feliz,sacando,242776.44,N,1792243.7,10
+Shawnda Lynch Sr.,feliz,depositando,338083.96,N,2130327.66,10
+Mr. Huong O'Hara,feliz,sacando,86012.66,N,2044315.0000000002,10
+Mr. Huong O'Hara,feliz,depositando,260577.1,N,2304892.1,10
+Rolf Windler,feliz,sacando,204986.81,N,2099905.29,10
+Rolf Windler,feliz,depositando,113555.97,N,2213461.2600000002,10
+Mitchel Sawayn,feliz,sacando,148499.06,N,2064962.2000000002,10
+Mitchel Sawayn,feliz,depositando,168486.0,N,2233448.2,10
+Rachelle Kris,feliz,sacando,62470.14,N,2170978.06,10
+Rachelle Kris,feliz,depositando,251414.55,N,2422392.61,10
+Ms. Kenneth Mosciski,feliz,sacando,61089.74,N,2361302.8699999996,10
+Ms. Kenneth Mosciski,feliz,depositando,42199.03,N,2403501.8999999994,10
+Annemarie Weissnat DDS,feliz,sacando,199534.99,N,2203966.909999999,10
+Annemarie Weissnat DDS,feliz,depositando,94432.46,N,2298399.369999999,10
+Ms. Kenneth Mosciski,feliz,sacando,81031.16,N,2217368.209999999,10
+Ms. Kenneth Mosciski,feliz,depositando,151313.24,N,2368681.4499999993,10
+Rachelle Kris,feliz,sacando,311147.69,N,2057533.7599999993,10
+Rachelle Kris,feliz,depositando,259455.36,N,2316989.119999999,10
+Mitchel Sawayn,feliz,sacando,433776.95,N,1883212.1699999992,10
+Mitchel Sawayn,feliz,depositando,163361.62,N,2046573.789999999,10
+Rolf Windler,feliz,sacando,424629.6,N,1621944.189999999,10
+Rolf Windler,feliz,depositando,72939.51,N,1694883.699999999,10
+Mr. Huong O'Hara,feliz,sacando,131615.3,N,1563268.399999999,10
+Mr. Huong O'Hara,feliz,depositando,516979.86,N,2080248.2599999988,10
+Shawnda Lynch Sr.,feliz,sacando,196814.75,N,1883433.5099999988,10
+Shawnda Lynch Sr.,feliz,depositando,337865.94,N,2221299.449999999,10
+Cassi Waters,feliz,sacando,401859.4,N,1819440.0499999989,10
+Cassi Waters,feliz,depositando,463616.74,N,2283056.789999999,10
+Ada Ruecker,feliz,sacando,279352.96,N,2003703.8299999991,10
+Ada Ruecker,feliz,depositando,33959.24,N,2037663.0699999991,10
+Andrew McDermott,feliz,sacando,285602.87,N,1752060.1999999993,10
+Andrew McDermott,feliz,depositando,211321.26,N,1963381.4599999993,10
+Ada Ruecker,feliz,sacando,166979.36,N,1796402.0999999992,10
+Ada Ruecker,feliz,depositando,196758.27,N,1993160.3699999992,10
+Cassi Waters,feliz,sacando,21307.02,N,1971853.3499999992,10
+Cassi Waters,feliz,depositando,202515.5,N,2174368.849999999,10
+Shawnda Lynch Sr.,feliz,sacando,293671.93,N,1880696.9199999992,10
+Shawnda Lynch Sr.,feliz,depositando,533316.33,N,2414013.249999999,10
+Mr. Huong O'Hara,feliz,sacando,170782.6,N,2243230.649999999,10
+Mr. Huong O'Hara,feliz,depositando,339917.44,N,2583148.089999999,10
+Rolf Windler,feliz,sacando,223382.9,N,2359765.189999999,10
+Rolf Windler,feliz,depositando,132453.21,N,2492218.399999999,10
+Mitchel Sawayn,feliz,sacando,244450.35,N,2247768.049999999,10
+Mitchel Sawayn,feliz,depositando,199319.37,N,2447087.419999999,10
+Rachelle Kris,feliz,sacando,206373.74,N,2240713.679999999,10
+Rachelle Kris,feliz,depositando,537609.94,N,2778323.6199999987,10
+Ms. Kenneth Mosciski,feliz,sacando,102163.04,N,2676160.5799999987,10
+Ms. Kenneth Mosciski,feliz,depositando,509773.15,N,3185933.7299999986,10
+Annemarie Weissnat DDS,feliz,sacando,4138.4,N,3181795.3299999987,10
+Annemarie Weissnat DDS,feliz,depositando,382886.22,N,3564681.549999999,10
+Ms. Kenneth Mosciski,feliz,sacando,406071.53,N,3158610.0199999986,10
+Ms. Kenneth Mosciski,feliz,depositando,130500.99,N,3289111.009999999,10
+Rachelle Kris,feliz,sacando,256411.67,N,3032699.339999999,10
+Rachelle Kris,feliz,depositando,491172.52,N,3523871.859999999,10
+Mitchel Sawayn,feliz,sacando,449753.45,N,3074118.4099999988,10
+Mitchel Sawayn,feliz,depositando,99155.48,N,3173273.8899999987,10
+Rolf Windler,feliz,sacando,272485.97,N,2900787.919999999,10
+Rolf Windler,feliz,depositando,13797.62,N,2914585.539999999,10
+Mr. Huong O'Hara,feliz,sacando,99989.16,N,2814596.379999999,10
+Mr. Huong O'Hara,feliz,depositando,85018.51,N,2899614.8899999987,10
+Shawnda Lynch Sr.,feliz,sacando,284973.52,N,2614641.3699999987,10
+Shawnda Lynch Sr.,feliz,depositando,117580.63,N,2732221.9999999986,10
+Cassi Waters,feliz,sacando,22275.37,N,2709946.6299999985,10
+Cassi Waters,feliz,depositando,538159.74,N,3248106.3699999982,10
+Ada Ruecker,feliz,sacando,28363.19,N,3219743.1799999983,10
+Ada Ruecker,feliz,depositando,202931.11,N,3422674.289999998,10
+Andrew McDermott,feliz,sacando,54494.86,N,3368179.4299999983,10
+Andrew McDermott,feliz,depositando,172740.23,N,3540919.6599999983,10
+Ada Ruecker,feliz,sacando,467655.23,N,3073264.4299999983,10
+Ada Ruecker,feliz,depositando,780078.0,N,3853342.4299999983,10
+Cassi Waters,feliz,sacando,460909.05,N,3392433.3799999985,10
+Cassi Waters,feliz,depositando,508708.17,N,3901141.5499999984,10
+Shawnda Lynch Sr.,feliz,sacando,357090.7,N,3544050.849999998,10
+Shawnda Lynch Sr.,feliz,depositando,237689.79,N,3781740.6399999983,10
+Mr. Huong O'Hara,feliz,sacando,353550.99,N,3428189.6499999985,10
+Mr. Huong O'Hara,feliz,depositando,293727.92,N,3721917.5699999984,10
+Rolf Windler,feliz,sacando,525084.09,N,3196833.4799999986,10
+Rolf Windler,feliz,depositando,719393.67,N,3916227.1499999985,10
+Mitchel Sawayn,feliz,sacando,103788.93,N,3812438.2199999983,10
+Mitchel Sawayn,feliz,depositando,578927.49,N,4391365.709999998,10
+Rachelle Kris,feliz,sacando,346375.2,N,4044990.509999998,10
+Rachelle Kris,feliz,depositando,396520.91,N,4441511.419999998,10
+Ms. Kenneth Mosciski,feliz,sacando,34835.17,N,4406676.249999998,10
+Ms. Kenneth Mosciski,feliz,depositando,233058.38,N,4639734.629999998,10
+Annemarie Weissnat DDS,feliz,sacando,112700.07,N,4527034.559999998,10
+Annemarie Weissnat DDS,feliz,depositando,297589.56,N,4824624.119999997,10
+Ms. Kenneth Mosciski,feliz,sacando,221933.5,N,4602690.619999997,10
+Ms. Kenneth Mosciski,feliz,depositando,677561.67,N,5280252.289999997,10
+Rachelle Kris,feliz,sacando,457724.55,N,4822527.739999997,10
+Rachelle Kris,feliz,depositando,1048652.0,N,5871179.739999997,10
+Mitchel Sawayn,feliz,sacando,532000.23,N,5339179.509999998,10
+Mitchel Sawayn,feliz,depositando,739274.75,N,6078454.259999998,10
+Rolf Windler,feliz,sacando,142034.22,N,5936420.039999998,10
+Rolf Windler,feliz,depositando,225983.99,N,6162404.029999998,10
+Mr. Huong O'Hara,feliz,sacando,541425.18,N,5620978.849999999,10
+Mr. Huong O'Hara,feliz,depositando,189339.77,N,5810318.619999998,10
+Shawnda Lynch Sr.,feliz,sacando,477509.7,N,5332808.919999998,10
+Shawnda Lynch Sr.,feliz,depositando,786373.56,N,6119182.479999999,10
+Cassi Waters,feliz,sacando,69965.31,N,6049217.169999999,10
+Cassi Waters,feliz,depositando,901337.49,N,6950554.659999999,10
+Ada Ruecker,feliz,sacando,531214.5,N,6419340.159999999,10
+Ada Ruecker,feliz,depositando,508830.68,N,6928170.839999999,10
+Andrew McDermott,feliz,sacando,481584.99,N,6446585.849999999,10
+Andrew McDermott,feliz,depositando,409455.1,N,6856040.949999998,10
+Ada Ruecker,feliz,sacando,761146.08,N,6094894.869999998,10
+Ada Ruecker,feliz,depositando,737011.54,N,6831906.409999998,10
+Cassi Waters,feliz,sacando,88444.14,N,6743462.269999999,10
+Cassi Waters,feliz,depositando,189142.57,N,6932604.839999999,10
+Shawnda Lynch Sr.,feliz,sacando,457184.49,N,6475420.349999999,10
+Shawnda Lynch Sr.,feliz,depositando,535433.2,N,7010853.549999999,10
+Mr. Huong O'Hara,feliz,sacando,908533.46,N,6102320.089999999,10
+Mr. Huong O'Hara,feliz,depositando,434389.47,N,6536709.559999999,10
+Rolf Windler,feliz,sacando,823212.44,N,5713497.119999999,10
+Rolf Windler,feliz,depositando,4917.74,N,5718414.859999999,10
+Mitchel Sawayn,feliz,sacando,647883.52,N,5070531.34,10
+Mitchel Sawayn,feliz,depositando,1349952.55,N,6420483.89,10
+Rachelle Kris,feliz,sacando,1097322.57,N,5323161.319999999,10
+Rachelle Kris,feliz,depositando,125774.12,N,5448935.4399999995,10
+Ms. Kenneth Mosciski,feliz,sacando,839182.32,N,4609753.119999999,10
+Ms. Kenneth Mosciski,feliz,depositando,326832.79,N,4936585.909999999,10
+Annemarie Weissnat DDS,feliz,sacando,174461.83,N,4762124.079999999,10
+Annemarie Weissnat DDS,feliz,depositando,496861.27,N,5258985.35,10
+Ms. Kenneth Mosciski,feliz,sacando,714673.98,N,4544311.369999999,10
+Ms. Kenneth Mosciski,feliz,depositando,1202769.73,N,5747081.1,10
+Rachelle Kris,feliz,sacando,691299.17,N,5055781.93,10
+Rachelle Kris,feliz,depositando,545723.76,N,5601505.6899999995,10
+Mitchel Sawayn,feliz,sacando,1017233.76,N,4584271.93,10
+Mitchel Sawayn,feliz,depositando,527312.87,N,5111584.8,10
+Rolf Windler,feliz,sacando,381246.77,N,4730338.029999999,10
+Rolf Windler,feliz,depositando,416294.85,N,5146632.879999999,10
+Mr. Huong O'Hara,feliz,sacando,215730.99,N,4930901.889999999,10
+Mr. Huong O'Hara,feliz,depositando,930473.5,N,5861375.389999999,10
+Shawnda Lynch Sr.,feliz,sacando,632996.9,N,5228378.489999998,10
+Shawnda Lynch Sr.,feliz,depositando,921251.93,N,6149630.419999998,10
+Cassi Waters,feliz,sacando,135324.98,N,6014305.439999998,10
+Cassi Waters,feliz,depositando,562152.49,N,6576457.929999998,10
+Ada Ruecker,feliz,sacando,768940.81,N,5807517.119999997,10
+Ada Ruecker,feliz,depositando,1231544.51,N,7039061.629999997,10
+Andrew McDermott,feliz,sacando,463307.32,N,6575754.309999997,10
+Andrew McDermott,feliz,depositando,681915.31,N,7257669.619999997,10
+Ada Ruecker,feliz,sacando,263688.58,N,6993981.039999997,10
+Ada Ruecker,feliz,depositando,1743565.49,N,8737546.529999997,10
+Cassi Waters,feliz,sacando,291300.71,N,8446245.819999997,10
+Cassi Waters,feliz,depositando,1205802.26,N,9652048.079999996,10
+Shawnda Lynch Sr.,feliz,sacando,672255.04,N,8979793.039999995,10
+Shawnda Lynch Sr.,feliz,depositando,1218050.02,N,1.0197843059999995E7,10
+Mr. Huong O'Hara,feliz,sacando,1160324.61,N,9037518.449999996,10
+Mr. Huong O'Hara,feliz,depositando,593870.39,N,9631388.839999996,10
+Rolf Windler,feliz,sacando,457506.91,N,9173881.929999996,10
+Rolf Windler,feliz,depositando,1049993.96,N,1.0223875889999997E7,10
+Mitchel Sawayn,feliz,sacando,221571.42,N,1.0002304469999997E7,10
+Mitchel Sawayn,feliz,depositando,1223603.32,N,1.1225907789999997E7,10
+Rachelle Kris,feliz,sacando,180345.37,N,1.1045562419999998E7,10
+Rachelle Kris,feliz,depositando,1303990.82,N,1.2349553239999998E7,10
+Ms. Kenneth Mosciski,feliz,sacando,244937.91,N,1.2104615329999998E7,10
+Ms. Kenneth Mosciski,feliz,depositando,1025048.17,N,1.3129663499999998E7,10
+Annemarie Weissnat DDS,feliz,sacando,335435.2,N,1.2794228299999999E7,10
+Annemarie Weissnat DDS,feliz,depositando,899788.76,N,1.3694017059999999E7,10
+Ms. Kenneth Mosciski,feliz,sacando,76855.95,N,1.361716111E7,10
+Ms. Kenneth Mosciski,feliz,depositando,1512455.98,N,1.512961709E7,10
+Rachelle Kris,feliz,sacando,1929995.24,N,1.319962185E7,10
+Rachelle Kris,feliz,depositando,2855244.01,N,1.605486586E7,10
+Mitchel Sawayn,feliz,sacando,718091.71,N,1.5336774149999999E7,10
+Mitchel Sawayn,feliz,depositando,2695367.61,N,1.8032141759999998E7,10
+Rolf Windler,feliz,sacando,266058.87,N,1.7766082889999997E7,10
+Rolf Windler,feliz,depositando,1027853.4,N,1.8793936289999995E7,10
+Mr. Huong O'Hara,feliz,sacando,276425.85,N,1.8517510439999994E7,10
+Mr. Huong O'Hara,feliz,depositando,541297.27,N,1.9058807709999993E7,10
+Shawnda Lynch Sr.,feliz,sacando,1696938.62,N,1.7361869089999992E7,10
+Shawnda Lynch Sr.,feliz,depositando,370313.91,N,1.7732182999999993E7,10
+Cassi Waters,feliz,sacando,990747.16,N,1.6741435839999992E7,10
+Cassi Waters,feliz,depositando,1660650.1,N,1.8402085939999994E7,10
+Ada Ruecker,feliz,sacando,54989.78,N,1.8347096159999993E7,10
+Ada Ruecker,feliz,depositando,305381.21,N,1.8652477369999994E7,10
+Andrew McDermott,feliz,sacando,839001.67,N,1.781347569999999E7,10
+Andrew McDermott,feliz,depositando,408926.09,N,1.822240178999999E7,10
+Ada Ruecker,feliz,sacando,3045328.66,N,1.5177073129999992E7,10
+Ada Ruecker,feliz,depositando,3370825.19,N,1.8547898319999993E7,10
+Cassi Waters,feliz,sacando,1925516.02,N,1.6622382299999993E7,10
+Cassi Waters,feliz,depositando,1749518.63,N,1.8371900929999992E7,10
+Shawnda Lynch Sr.,feliz,sacando,1929758.69,N,1.6442142239999993E7,10
+Shawnda Lynch Sr.,feliz,depositando,3818756.76,N,2.0260898999999993E7,10
+Mr. Huong O'Hara,feliz,sacando,1319165.27,N,1.8941733729999993E7,10
+Mr. Huong O'Hara,feliz,depositando,4314180.76,N,2.3255914489999995E7,10
+Rolf Windler,feliz,sacando,2159707.81,N,2.1096206679999996E7,10
+Rolf Windler,feliz,depositando,2062257.54,N,2.3158464219999995E7,10
+Mitchel Sawayn,feliz,sacando,2552195.68,N,2.0606268539999995E7,10
+Mitchel Sawayn,feliz,depositando,1830968.0,N,2.2437236539999995E7,10
+Rachelle Kris,feliz,sacando,816060.8,N,2.1621175739999995E7,10
+Rachelle Kris,feliz,depositando,2653732.93,N,2.4274908669999994E7,10
+Ms. Kenneth Mosciski,feliz,sacando,2994526.21,N,2.1280382459999993E7,10
+Ms. Kenneth Mosciski,feliz,depositando,3097898.86,N,2.4378281319999993E7,10
+Annemarie Weissnat DDS,feliz,sacando,2349621.1,N,2.202866021999999E7,10
+Annemarie Weissnat DDS,feliz,depositando,3416115.4,N,2.544477561999999E7,10
+Ms. Kenneth Mosciski,feliz,sacando,3000182.72,N,2.244459289999999E7,10
+Ms. Kenneth Mosciski,feliz,depositando,4435738.78,N,2.6880331679999992E7,10
+Rachelle Kris,feliz,sacando,2094625.11,N,2.4785706569999993E7,10
+Rachelle Kris,feliz,depositando,1341191.52,N,2.6126898089999992E7,10
+Mitchel Sawayn,feliz,sacando,749124.62,N,2.537777346999999E7,10
+Mitchel Sawayn,feliz,depositando,3885822.28,N,2.9263595749999993E7,10
+Rolf Windler,feliz,sacando,3781532.13,N,2.5482063619999994E7,10
+Rolf Windler,feliz,depositando,4588530.25,N,3.0070593869999994E7,10
+Mr. Huong O'Hara,feliz,sacando,1577305.69,N,2.8493288179999992E7,10
+Mr. Huong O'Hara,feliz,depositando,565629.79,N,2.905891796999999E7,10
+Shawnda Lynch Sr.,feliz,sacando,172920.33,N,2.8885997639999993E7,10
+Shawnda Lynch Sr.,feliz,depositando,1851680.66,N,3.0737678299999993E7,10
+Cassi Waters,feliz,sacando,844408.64,N,2.9893269659999993E7,10
+Cassi Waters,feliz,depositando,3950528.3,N,3.384379795999999E7,10
+Ada Ruecker,feliz,sacando,968786.99,N,3.2875010969999995E7,10
+Ada Ruecker,feliz,depositando,4501220.34,N,3.7376231309999995E7,10
+Andrew McDermott,feliz,sacando,3274011.84,N,3.410221947E7,10
+Andrew McDermott,feliz,depositando,3294391.15,N,3.739661062E7,10
+Ada Ruecker,feliz,sacando,4923185.75,N,3.2473424869999997E7,10
+Ada Ruecker,feliz,depositando,6530455.69,N,3.9003880559999995E7,10
+Cassi Waters,feliz,sacando,4801871.62,N,3.420200894E7,10
+Cassi Waters,feliz,depositando,2992490.24,N,3.719449918E7,10
+Shawnda Lynch Sr.,feliz,sacando,4250894.36,N,3.294360482E7,10
+Shawnda Lynch Sr.,feliz,depositando,812757.56,N,3.375636238E7,10
+Mr. Huong O'Hara,feliz,sacando,3258935.02,N,3.0497427360000003E7,10
+Mr. Huong O'Hara,feliz,depositando,7027533.24,N,3.75249606E7,10
+Rolf Windler,feliz,sacando,3664480.43,N,3.386048017E7,10
+Rolf Windler,feliz,depositando,3465368.13,N,3.7325848300000004E7,10
+Mitchel Sawayn,feliz,sacando,2650283.5,N,3.4675564800000004E7,10
+Mitchel Sawayn,feliz,depositando,4197378.28,N,3.8872943080000006E7,10
+Rachelle Kris,feliz,sacando,347668.9,N,3.852527418000001E7,10
+Rachelle Kris,feliz,depositando,1092637.96,N,3.961791214000001E7,10
+Ms. Kenneth Mosciski,feliz,sacando,1885172.88,N,3.7732739260000005E7,10
+Ms. Kenneth Mosciski,feliz,depositando,3679854.02,N,4.141259328000001E7,10
+Annemarie Weissnat DDS,feliz,sacando,885055.41,N,4.052753787000001E7,10
+Annemarie Weissnat DDS,feliz,depositando,6338406.07,N,4.686594394000001E7,10
+Ms. Kenneth Mosciski,feliz,sacando,3005082.67,N,4.386086127000001E7,10
+Ms. Kenneth Mosciski,feliz,depositando,1598743.06,N,4.545960433000001E7,10
+Rachelle Kris,feliz,sacando,6257175.5,N,3.920242883000001E7,10
+Rachelle Kris,feliz,depositando,3069237.87,N,4.227166670000001E7,10
+Mitchel Sawayn,feliz,sacando,4107909.84,N,3.8163756860000014E7,10
+Mitchel Sawayn,feliz,depositando,3055169.87,N,4.121892673000001E7,10
+Rolf Windler,feliz,sacando,5011992.06,N,3.620693467000001E7,10
+Rolf Windler,feliz,depositando,126495.47,N,3.633343014000001E7,10
+Mr. Huong O'Hara,feliz,sacando,3863281.35,N,3.2470148790000007E7,10
+Mr. Huong O'Hara,feliz,depositando,7768316.79,N,4.0238465580000006E7,10
+Shawnda Lynch Sr.,feliz,sacando,6312090.04,N,3.392637554000001E7,10
+Shawnda Lynch Sr.,feliz,depositando,3972831.21,N,3.789920675000001E7,10
+Cassi Waters,feliz,sacando,3561550.87,N,3.433765588000001E7,10
+Cassi Waters,feliz,depositando,5045720.3,N,3.938337618000001E7,10
+Ada Ruecker,feliz,sacando,7290480.96,N,3.2092895220000006E7,10
+Ada Ruecker,feliz,depositando,2583710.72,N,3.4676605940000005E7,10
+Andrew McDermott,feliz,sacando,6809232.56,N,2.7867373380000006E7,10
+Andrew McDermott,feliz,depositando,2807091.87,N,3.0674465250000007E7,10
+Ada Ruecker,feliz,sacando,6031610.78,N,2.4642854470000006E7,10
+Ada Ruecker,feliz,depositando,6365808.07,N,3.1008662540000007E7,10
+Cassi Waters,feliz,sacando,3373591.98,N,2.7635070560000006E7,10
+Cassi Waters,feliz,depositando,3116265.45,N,3.0751336010000005E7,10
+Shawnda Lynch Sr.,feliz,sacando,5798393.19,N,2.4952942820000004E7,10
+Shawnda Lynch Sr.,feliz,depositando,8007025.09,N,3.2959967910000004E7,10
+Mr. Huong O'Hara,feliz,sacando,601464.12,N,3.2358503790000003E7,10
+Mr. Huong O'Hara,feliz,depositando,8343952.99,N,4.070245678E7,10
+Rolf Windler,feliz,sacando,843793.3,N,3.9858663480000004E7,10
+Rolf Windler,feliz,depositando,8678097.26,N,4.853676074E7,10
+Mitchel Sawayn,feliz,sacando,1938058.39,N,4.659870235E7,10
+Mitchel Sawayn,feliz,depositando,6958302.84,N,5.355700519E7,10
+Rachelle Kris,feliz,sacando,2197340.89,N,5.13596643E7,10
+Rachelle Kris,feliz,depositando,30253.87,N,5.1389918169999994E7,10
+Ms. Kenneth Mosciski,feliz,sacando,3351381.12,N,4.803853705E7,10
+Ms. Kenneth Mosciski,feliz,depositando,1.100796571E7,N,5.904650276E7,10
+Annemarie Weissnat DDS,feliz,sacando,8631147.93,N,5.041535483E7,10
+Annemarie Weissnat DDS,feliz,depositando,9429221.57,N,5.98445764E7,10
+Ms. Kenneth Mosciski,feliz,sacando,4645551.03,N,5.519902537E7,10
+Ms. Kenneth Mosciski,feliz,depositando,2042980.95,N,5.724200632E7,10
+Rachelle Kris,feliz,sacando,4875082.15,N,5.236692417E7,10
+Rachelle Kris,feliz,depositando,7384981.82,N,5.975190599E7,10
+Mitchel Sawayn,feliz,sacando,110831.01,N,5.9641074980000004E7,10
+Mitchel Sawayn,feliz,depositando,2847684.74,N,6.2488759720000006E7,10
+Rolf Windler,feliz,sacando,6504107.8,N,5.598465192000001E7,10
+Rolf Windler,feliz,depositando,6933261.18,N,6.291791310000001E7,10
+Mr. Huong O'Hara,feliz,sacando,5624689.56,N,5.729322354000001E7,10
+Mr. Huong O'Hara,feliz,depositando,7723528.31,N,6.501675185000001E7,10
+Shawnda Lynch Sr.,feliz,sacando,3918140.22,N,6.109861163000001E7,10
+Shawnda Lynch Sr.,feliz,depositando,2663289.92,N,6.376190155000001E7,10
+Cassi Waters,feliz,sacando,5133098.76,N,5.8628802790000014E7,10
+Cassi Waters,feliz,depositando,7616866.78,N,6.6245669570000015E7,10
+Ada Ruecker,feliz,sacando,1233800.33,N,6.501186924000002E7,10
+Ada Ruecker,feliz,depositando,6476091.92,N,7.148796116000001E7,10
+Andrew McDermott,feliz,sacando,164803.57,N,7.132315759000002E7,10
+Andrew McDermott,feliz,depositando,1975448.76,N,7.329860635000002E7,10
+Ada Ruecker,feliz,sacando,6820930.36,N,6.6477675990000024E7,10
+Ada Ruecker,feliz,depositando,9435468.02,N,7.591314401000002E7,10
+Cassi Waters,feliz,sacando,1.220117121E7,N,6.371197280000002E7,10
+Cassi Waters,feliz,depositando,1.33773751E7,N,7.708934790000002E7,10
+Shawnda Lynch Sr.,feliz,sacando,5296254.26,N,7.179309364000002E7,10
+Shawnda Lynch Sr.,feliz,depositando,957203.18,N,7.275029682000002E7,10
+Mr. Huong O'Hara,feliz,sacando,1.12754835E7,N,6.147481332000002E7,10
+Mr. Huong O'Hara,feliz,depositando,4216714.73,N,6.569152805000003E7,10
+Rolf Windler,feliz,sacando,1242542.21,N,6.4448985840000026E7,10
+Rolf Windler,feliz,depositando,3148360.57,N,6.759734641000003E7,10
+Mitchel Sawayn,feliz,sacando,1.007817853E7,N,5.7519167880000025E7,10
+Mitchel Sawayn,feliz,depositando,1.502234052E7,N,7.254150840000002E7,10
+Rachelle Kris,feliz,sacando,4330349.36,N,6.821115904000002E7,10
+Rachelle Kris,feliz,depositando,1.048307731E7,N,7.869423635000002E7,10
+Ms. Kenneth Mosciski,feliz,sacando,9660100.03,N,6.903413632000002E7,10
+Ms. Kenneth Mosciski,feliz,depositando,9896555.92,N,7.893069224000002E7,10
+Annemarie Weissnat DDS,feliz,sacando,5808839.73,N,7.312185251000002E7,10
+Annemarie Weissnat DDS,feliz,depositando,1.431471766E7,N,8.743657017000002E7,10
+Ms. Kenneth Mosciski,feliz,sacando,9871037.89,N,7.756553228000002E7,10
+Ms. Kenneth Mosciski,feliz,depositando,1.759928519E7,N,9.516481747000001E7,10
+Rachelle Kris,feliz,sacando,3608288.3,N,9.155652917000002E7,10
+Rachelle Kris,feliz,depositando,1.599117078E7,N,1.0754769995000002E8,10
+Mitchel Sawayn,feliz,sacando,1.012403547E7,N,9.742366448000002E7,10
+Mitchel Sawayn,feliz,depositando,5114969.7,N,1.0253863418000002E8,10
+Rolf Windler,feliz,sacando,1.094013113E7,N,9.159850305000003E7,10
+Rolf Windler,feliz,depositando,3581189.02,N,9.517969207000002E7,10
+Mr. Huong O'Hara,feliz,sacando,8874954.18,N,8.630473789000002E7,10
+Mr. Huong O'Hara,feliz,depositando,9826964.28,N,9.613170217000002E7,10
+Shawnda Lynch Sr.,feliz,sacando,1.013957893E7,N,8.599212324000001E7,10
+Shawnda Lynch Sr.,feliz,depositando,2615507.44,N,8.860763068E7,10
+Cassi Waters,feliz,sacando,1.158603704E7,N,7.702159364000002E7,10
+Cassi Waters,feliz,depositando,5686120.41,N,8.270771405000001E7,10
+Ada Ruecker,feliz,sacando,1.242855578E7,N,7.027915827000001E7,10
+Ada Ruecker,feliz,depositando,1.068442402E7,N,8.096358229E7,10
+Andrew McDermott,feliz,sacando,1.367512529E7,N,6.7288457E7,10
+Andrew McDermott,feliz,depositando,1.609575527E7,N,8.338421227E7,10
+Ada Ruecker,feliz,sacando,4691936.26,N,7.869227600999999E7,10
+Ada Ruecker,feliz,depositando,8647253.41,N,8.733952941999999E7,10
+Cassi Waters,feliz,sacando,1.126987753E7,N,7.606965188999999E7,10
+Cassi Waters,feliz,depositando,8725776.77,N,8.479542865999998E7,10
+Shawnda Lynch Sr.,feliz,sacando,9553692.22,N,7.524173643999998E7,10
+Shawnda Lynch Sr.,feliz,depositando,1.459420197E7,N,8.983593840999998E7,10
+Mr. Huong O'Hara,feliz,sacando,1.308552977E7,N,7.675040863999999E7,10
+Mr. Huong O'Hara,feliz,depositando,1.399843289E7,N,9.074884152999999E7,10
+Rolf Windler,feliz,sacando,2947658.72,N,8.780118280999999E7,10
+Rolf Windler,feliz,depositando,5473903.55,N,9.327508635999998E7,10
+Mitchel Sawayn,feliz,sacando,8562416.04,N,8.471267032E7,10
+Mitchel Sawayn,feliz,depositando,1.228972921E7,N,9.700239953E7,10
+Rachelle Kris,feliz,sacando,1.332546847E7,N,8.367693106E7,10
+Rachelle Kris,feliz,depositando,1.941058941E7,N,1.0308752047E8,10
+Ms. Kenneth Mosciski,feliz,sacando,4341777.37,N,9.87457431E7,10
+Ms. Kenneth Mosciski,feliz,depositando,4773697.44,N,1.0351944053999999E8,10
+Annemarie Weissnat DDS,feliz,sacando,1.483155987E7,N,8.868788066999999E7,10
+Annemarie Weissnat DDS,feliz,depositando,2.10135906E7,N,1.0970147126999998E8,10
+Ms. Kenneth Mosciski,feliz,sacando,1.42410513E7,N,9.546041996999998E7,10
+Ms. Kenneth Mosciski,feliz,depositando,5745394.02,N,1.0120581398999998E8,10
+Rachelle Kris,feliz,sacando,1.527787003E7,N,8.592794395999998E7,10
+Rachelle Kris,feliz,depositando,1.927568862E7,N,1.0520363257999998E8,10
+Mitchel Sawayn,feliz,sacando,5035894.09,N,1.0016773848999998E8,10
+Mitchel Sawayn,feliz,depositando,1.963686119E7,N,1.1980459967999998E8,10
+Rolf Windler,feliz,sacando,3497873.58,N,1.1630672609999998E8,10
+Rolf Windler,feliz,depositando,2042298.65,N,1.1834902474999999E8,10
+Mr. Huong O'Hara,feliz,sacando,1.569185563E7,N,1.0265716911999999E8,10
+Mr. Huong O'Hara,feliz,depositando,1.591904809E7,N,1.1857621721E8,10
+Shawnda Lynch Sr.,feliz,sacando,818419.58,N,1.1775779763E8,10
+Shawnda Lynch Sr.,feliz,depositando,1.726769212E7,N,1.3502548975E8,10
+Cassi Waters,feliz,sacando,896052.19,N,1.3412943756E8,10
+Cassi Waters,feliz,depositando,7127035.56,N,1.4125647312E8,10
+Ada Ruecker,feliz,sacando,1.391181328E7,N,1.2734465984E8,10
+Ada Ruecker,feliz,depositando,1.694708442E7,N,1.4429174426E8,10
+Andrew McDermott,feliz,sacando,3005630.86,N,1.4128611339999998E8,10
+Andrew McDermott,feliz,depositando,1.557183219E7,N,1.5685794558999997E8,10
+Ada Ruecker,feliz,sacando,6596279.72,N,1.5026166586999997E8,10
+Ada Ruecker,feliz,depositando,3.332560913E7,N,1.8358727499999997E8,10
+Cassi Waters,feliz,sacando,4267810.51,N,1.7931946448999998E8,10
+Cassi Waters,feliz,depositando,1.663449113E7,N,1.9595395561999997E8,10
+Shawnda Lynch Sr.,feliz,sacando,2.387534081E7,N,1.7207861480999997E8,10
+Shawnda Lynch Sr.,feliz,depositando,1.024051039E7,N,1.823191252E8,10
+Mr. Huong O'Hara,feliz,sacando,2.126986111E7,N,1.6104926408999997E8,10
+Mr. Huong O'Hara,feliz,depositando,1.551918062E7,N,1.7656844470999998E8,10
+Rolf Windler,feliz,sacando,1.021512154E7,N,1.6635332317E8,10
+Rolf Windler,feliz,depositando,2.577329104E7,N,1.9212661420999998E8,10
+Mitchel Sawayn,feliz,sacando,1.776588894E7,N,1.7436072526999998E8,10
+Mitchel Sawayn,feliz,depositando,2.728970435E7,N,2.0165042961999997E8,10
+Rachelle Kris,feliz,sacando,1.967452324E7,N,1.8197590637999997E8,10
+Rachelle Kris,feliz,depositando,1.25205696E7,N,1.9449647597999996E8,10
+Ms. Kenneth Mosciski,feliz,sacando,6181460.54,N,1.8831501543999997E8,10
+Ms. Kenneth Mosciski,feliz,depositando,2.451749176E7,N,2.1283250719999996E8,10
+Annemarie Weissnat DDS,feliz,sacando,1.820026677E7,N,1.9463224042999995E8,10
+Annemarie Weissnat DDS,feliz,depositando,2.018656361E7,N,2.1481880403999996E8,10
+Ms. Kenneth Mosciski,feliz,sacando,4.002806277E7,N,1.7479074126999995E8,10
+Ms. Kenneth Mosciski,feliz,depositando,2007514.61,N,1.7679825587999997E8,10
+Rachelle Kris,feliz,sacando,2.761218129E7,N,1.4918607458999997E8,10
+Rachelle Kris,feliz,depositando,7635955.97,N,1.5682203055999997E8,10
+Mitchel Sawayn,feliz,sacando,695141.48,N,1.5612688907999998E8,10
+Mitchel Sawayn,feliz,depositando,3.163793486E7,N,1.8776482394E8,10
+Rolf Windler,feliz,sacando,5817597.06,N,1.8194722688E8,10
+Rolf Windler,feliz,depositando,3.817122679E7,N,2.2011845367E8,10
+Mr. Huong O'Hara,feliz,sacando,1.781122416E7,N,2.0230722951E8,10
+Mr. Huong O'Hara,feliz,depositando,1.058966995E7,N,2.1289689945999998E8,10
+Shawnda Lynch Sr.,feliz,sacando,2.303101218E7,N,1.8986588727999997E8,10
+Shawnda Lynch Sr.,feliz,depositando,3.027834938E7,N,2.2014423665999997E8,10
+Cassi Waters,feliz,sacando,3.393351619E7,N,1.8621072046999997E8,10
+Cassi Waters,feliz,depositando,3.727212925E7,N,2.2348284971999997E8,10
+Ada Ruecker,feliz,sacando,2.619454162E7,N,1.9728830809999996E8,10
+Ada Ruecker,feliz,depositando,3.017899173E7,N,2.2746729982999995E8,10
+Andrew McDermott,feliz,sacando,813925.76,N,2.2665337406999996E8,10
+Andrew McDermott,feliz,depositando,3868517.06,N,2.3052189112999997E8,10
+Ada Ruecker,feliz,sacando,1.36153584E7,N,2.1690653272999996E8,10
+Ada Ruecker,feliz,depositando,4.342620931E7,N,2.6033274203999996E8,10
+Cassi Waters,feliz,sacando,4.218623339E7,N,2.1814650864999998E8,10
+Cassi Waters,feliz,depositando,2.100138123E7,N,2.3914788987999997E8,10
+Shawnda Lynch Sr.,feliz,sacando,2.038747813E7,N,2.1876041174999997E8,10
+Shawnda Lynch Sr.,feliz,depositando,4.842202988E7,N,2.6718244162999997E8,10
+Mr. Huong O'Hara,feliz,sacando,2.821842202E7,N,2.3896401960999995E8,10
+Mr. Huong O'Hara,feliz,depositando,2.956125685E7,N,2.6852527646E8,10
+Rolf Windler,feliz,sacando,6737117.5,N,2.6178815895999998E8,10
+Rolf Windler,feliz,depositando,1.277955061E7,N,2.7456770957E8,10
+Mitchel Sawayn,feliz,sacando,1430908.91,N,2.7313680065999997E8,10
+Mitchel Sawayn,feliz,depositando,2.371411926E7,N,2.9685091991999996E8,10
+Rachelle Kris,feliz,sacando,5094216.26,N,2.9175670365999997E8,10
+Rachelle Kris,feliz,depositando,602611.23,N,2.9235931489E8,10
+Ms. Kenneth Mosciski,feliz,sacando,8263983.86,N,2.8409533103E8,10
+Ms. Kenneth Mosciski,feliz,depositando,1.307888399E7,N,2.9717421502E8,10
+Annemarie Weissnat DDS,feliz,sacando,3.343393911E7,N,2.6374027590999997E8,10
+Annemarie Weissnat DDS,feliz,depositando,4.252363175E7,N,3.0626390765999997E8,10
+Ms. Kenneth Mosciski,feliz,sacando,2.441799735E7,N,2.8184591030999994E8,10
+Ms. Kenneth Mosciski,feliz,depositando,2.863535519E7,N,3.1048126549999994E8,10
+Rachelle Kris,feliz,sacando,1.209917785E7,N,2.983820876499999E8,10
+Rachelle Kris,feliz,depositando,2321957.28,N,3.007040449299999E8,10
+Mitchel Sawayn,feliz,sacando,1.051840325E7,N,2.901856416799999E8,10
+Mitchel Sawayn,feliz,depositando,2.958621375E7,N,3.197718554299999E8,10
+Rolf Windler,feliz,sacando,3.250770386E7,N,2.872641515699999E8,10
+Rolf Windler,feliz,depositando,2.962741728E7,N,3.168915688499999E8,10
+Mr. Huong O'Hara,feliz,sacando,4.893109716E7,N,2.679604716899999E8,10
+Mr. Huong O'Hara,feliz,depositando,4.757488723E7,N,3.155353589199999E8,10
+Shawnda Lynch Sr.,feliz,sacando,2.981119927E7,N,2.857241596499999E8,10
+Shawnda Lynch Sr.,feliz,depositando,3.222356923E7,N,3.1794772887999994E8,10
+Cassi Waters,feliz,sacando,2.409873317E7,N,2.938489957099999E8,10
+Cassi Waters,feliz,depositando,3.188370519E7,N,3.257327008999999E8,10
+Ada Ruecker,feliz,sacando,1.322350265E7,N,3.1250919824999994E8,10
+Ada Ruecker,feliz,depositando,5.646831401E7,N,3.6897751225999993E8,10
+Andrew McDermott,feliz,sacando,1.106651613E7,N,3.5791099612999994E8,10
+Andrew McDermott,feliz,depositando,8203609.57,N,3.661146056999999E8,10
+Ada Ruecker,feliz,sacando,1.905291441E7,N,3.470616912899999E8,10
+Ada Ruecker,feliz,depositando,8.91316123E7,N,4.361933035899999E8,10
+Cassi Waters,feliz,sacando,9120025.6,N,4.270732779899999E8,10
+Cassi Waters,feliz,depositando,2.177533823E7,N,4.488486162199999E8,10
+Shawnda Lynch Sr.,feliz,sacando,4.964322908E7,N,3.992053871399999E8,10
+Shawnda Lynch Sr.,feliz,depositando,1.04844324E7,N,4.096898195399999E8,10
+Mr. Huong O'Hara,feliz,sacando,1.388822798E7,N,3.958015915599999E8,10
+Mr. Huong O'Hara,feliz,depositando,5.657589144E7,N,4.523774829999999E8,10
+Rolf Windler,feliz,sacando,6.32239825E7,N,3.891535004999999E8,10
+Rolf Windler,feliz,depositando,6.844989829E7,N,4.576033987899999E8,10
+Mitchel Sawayn,feliz,sacando,1.144286423E7,N,4.461605345599999E8,10
+Mitchel Sawayn,feliz,depositando,1.39636954E7,N,4.6012422995999986E8,10
+Rachelle Kris,feliz,sacando,1.532526471E7,N,4.447989652499999E8,10
+Rachelle Kris,feliz,depositando,4.294691861E7,N,4.877458838599999E8,10
+Ms. Kenneth Mosciski,feliz,sacando,650539.53,N,4.870953443299999E8,10
+Ms. Kenneth Mosciski,feliz,depositando,4.404447737E7,N,5.311398216999999E8,10
+Annemarie Weissnat DDS,feliz,sacando,6728939.66,N,5.244108820399999E8,10
+Annemarie Weissnat DDS,feliz,depositando,1.474033356E7,N,5.391512155999999E8,10
+Ms. Kenneth Mosciski,feliz,sacando,1.03221855E7,N,5.288290300999999E8,10
+Ms. Kenneth Mosciski,feliz,depositando,5.75237346E7,N,5.863527646999999E8,10
+Rachelle Kris,feliz,sacando,3.832429753E7,N,5.4802846717E8,10
+Rachelle Kris,feliz,depositando,1.2130464635E8,N,6.6933311352E8,10
+Mitchel Sawayn,feliz,sacando,5.031503443E7,N,6.1901807909E8,10
+Mitchel Sawayn,feliz,depositando,6.016823039E7,N,6.7918630948E8,10
+Rolf Windler,feliz,sacando,4.321010679E7,N,6.3597620269E8,10
+Rolf Windler,feliz,depositando,3.974016553E7,N,6.7571636822E8,10
+Mr. Huong O'Hara,feliz,sacando,3.44532703E7,N,6.412630979200001E8,10
+Mr. Huong O'Hara,feliz,depositando,1.0870256861E8,N,7.499656665300001E8,10
+Shawnda Lynch Sr.,feliz,sacando,5.715161964E7,N,6.928140468900001E8,10
+Shawnda Lynch Sr.,feliz,depositando,9.032002105E7,N,7.8313406794E8,10
+Cassi Waters,feliz,sacando,2.262849877E7,N,7.605055691700001E8,10
+Cassi Waters,feliz,depositando,8.999919737E7,N,8.505047665400001E8,10
+Ada Ruecker,feliz,sacando,3.391117294E7,N,8.165935936000001E8,10
+Ada Ruecker,feliz,depositando,5.103757725E7,N,8.676311708500001E8,10
+Andrew McDermott,feliz,sacando,6.447665204E7,N,8.031545188100002E8,10
+Andrew McDermott,feliz,depositando,3.574700633E7,N,8.389015251400002E8,10
+Ada Ruecker,feliz,sacando,9971155.99,N,8.289303691500002E8,10
+Ada Ruecker,feliz,depositando,4.574981115E7,N,8.746801803000002E8,10
+Cassi Waters,feliz,sacando,1.5076636039E8,N,7.239138199100002E8,10
+Cassi Waters,feliz,depositando,1.9012991251E8,N,9.140437324200002E8,10
+Shawnda Lynch Sr.,feliz,sacando,6.054782122E7,N,8.534959112000002E8,10
+Shawnda Lynch Sr.,feliz,depositando,1.1968832546E8,N,9.731842366600002E8,10
+Mr. Huong O'Hara,feliz,sacando,1.0244665328E8,N,8.707375833800002E8,10
+Mr. Huong O'Hara,feliz,depositando,1454082.8,N,8.721916661800002E8,10
+Rolf Windler,feliz,sacando,8.800100413E7,N,7.841906620500002E8,10
+Rolf Windler,feliz,depositando,1.1729234986E8,N,9.014830119100002E8,10
+Mitchel Sawayn,feliz,sacando,4.530763538E7,N,8.561753765300002E8,10
+Mitchel Sawayn,feliz,depositando,4.731772428E7,N,9.034931008100002E8,10
+Rachelle Kris,feliz,sacando,7.551512158E7,N,8.279779792300001E8,10
+Rachelle Kris,feliz,depositando,5.559559593E7,N,8.835735751600001E8,10
+Ms. Kenneth Mosciski,feliz,sacando,9.670838751E7,N,7.868651876500001E8,10
+Ms. Kenneth Mosciski,feliz,depositando,5.639626777E7,N,8.432614554200001E8,10
+Annemarie Weissnat DDS,feliz,sacando,1.0271225619E8,N,7.4054919923E8,10
+Annemarie Weissnat DDS,feliz,depositando,1.3194318865E8,N,8.7249238788E8,10
+Ms. Kenneth Mosciski,feliz,sacando,7.127761483E7,N,8.0121477305E8,10
+Ms. Kenneth Mosciski,feliz,depositando,2.0727698057E8,N,1.0084917536199999E9,10
+Rachelle Kris,feliz,sacando,4.082856823E7,N,9.676631853899999E8,10
+Rachelle Kris,feliz,depositando,1.655615126E8,N,1.1332246979899998E9,10
+Mitchel Sawayn,feliz,sacando,1.0312480552E8,N,1.0300998924699998E9,10
+Mitchel Sawayn,feliz,depositando,3.979963924E7,N,1.0698995317099998E9,10
+Rolf Windler,feliz,sacando,2.084556368E7,N,1.0490539680299999E9,10
+Rolf Windler,feliz,depositando,2.660321281E7,N,1.07565718084E9,10
+Mr. Huong O'Hara,feliz,sacando,6976314.49,N,1.0686808663499999E9,10
+Mr. Huong O'Hara,feliz,depositando,1.661461867E8,N,1.23482705305E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.1427833751E8,N,1.12054871554E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.9128372035E8,N,1.3118324358899999E9,10
+Cassi Waters,feliz,sacando,7.675443038E7,N,1.2350780055099998E9,10
+Cassi Waters,feliz,depositando,7.319036912E7,N,1.3082683746299996E9,10
+Ada Ruecker,feliz,sacando,9525791.25,N,1.2987425833799996E9,10
+Ada Ruecker,feliz,depositando,1.694031985E7,N,1.3156829032299995E9,10
+Andrew McDermott,feliz,sacando,3.929682963E7,N,1.2763860735999994E9,10
+Andrew McDermott,feliz,depositando,2.145978303E7,N,1.2978458566299994E9,10
+Ada Ruecker,feliz,sacando,1.358551252E8,N,1.1619907314299994E9,10
+Ada Ruecker,feliz,depositando,2.749151256E7,N,1.1894822439899993E9,10
+Cassi Waters,feliz,sacando,2.5390737629E8,N,9.355748676999993E8,10
+Cassi Waters,feliz,depositando,2.3518263675E8,N,1.1707575044499993E9,10
+Shawnda Lynch Sr.,feliz,sacando,2.0322836573E8,N,9.675291387199993E8,10
+Shawnda Lynch Sr.,feliz,depositando,1.4530503377E8,N,1.1128341724899993E9,10
+Mr. Huong O'Hara,feliz,sacando,3.860488392E7,N,1.0742292885699992E9,10
+Mr. Huong O'Hara,feliz,depositando,2.3320301012E8,N,1.307432298689999E9,10
+Rolf Windler,feliz,sacando,1.4669511058E8,N,1.1607371881099992E9,10
+Rolf Windler,feliz,depositando,4.625630337E7,N,1.206993491479999E9,10
+Mitchel Sawayn,feliz,sacando,5.578640406E7,N,1.1512070874199991E9,10
+Mitchel Sawayn,feliz,depositando,3.008895129E7,N,1.181296038709999E9,10
+Rachelle Kris,feliz,sacando,2.0385412394E8,N,9.77441914769999E8,10
+Rachelle Kris,feliz,depositando,8934637.48,N,9.86376552249999E8,10
+Ms. Kenneth Mosciski,feliz,sacando,3.479995337E7,N,9.51576598879999E8,10
+Ms. Kenneth Mosciski,feliz,depositando,1.0023524706E8,N,1.0518118459399991E9,10
+Annemarie Weissnat DDS,feliz,sacando,1.1668984992E8,N,9.351219960199991E8,10
+Annemarie Weissnat DDS,feliz,depositando,9.464252125E7,N,1.0297645172699991E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.0394240555E8,N,9.258221117199992E8,10
+Ms. Kenneth Mosciski,feliz,depositando,1.4171056818E8,N,1.0675326798999991E9,10
+Rachelle Kris,feliz,sacando,3.633964394E7,N,1.0311930359599991E9,10
+Rachelle Kris,feliz,depositando,1.409376939E8,N,1.1721307298599992E9,10
+Mitchel Sawayn,feliz,sacando,1.537561672E7,N,1.1567551131399992E9,10
+Mitchel Sawayn,feliz,depositando,6147885.32,N,1.162902998459999E9,10
+Rolf Windler,feliz,sacando,2.1074065656E8,N,9.521623418999991E8,10
+Rolf Windler,feliz,depositando,2.6304416387E8,N,1.215206505769999E9,10
+Mr. Huong O'Hara,feliz,sacando,5.828595548E7,N,1.156920550289999E9,10
+Mr. Huong O'Hara,feliz,depositando,8.451901492E7,N,1.241439565209999E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.0177316275E8,N,1.139666402459999E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.4925749555E8,N,1.288923898009999E9,10
+Cassi Waters,feliz,sacando,1.5848838931E8,N,1.130435508699999E9,10
+Cassi Waters,feliz,depositando,2.7660133635E8,N,1.4070368450499992E9,10
+Ada Ruecker,feliz,sacando,1.6262488627E8,N,1.2444119587799993E9,10
+Ada Ruecker,feliz,depositando,1.4753582331E8,N,1.3919477820899992E9,10
+Andrew McDermott,feliz,sacando,1.950895598E8,N,1.1968582222899992E9,10
+Andrew McDermott,feliz,depositando,8.301872694E7,N,1.2798769492299993E9,10
+Ada Ruecker,feliz,sacando,2.442142E8,N,1.0356627492299993E9,10
+Ada Ruecker,feliz,depositando,6.614248382E7,N,1.1018052330499992E9,10
+Cassi Waters,feliz,sacando,2.2302058587E8,N,8.787846471799992E8,10
+Cassi Waters,feliz,depositando,1.1505216886E8,N,9.938368160399992E8,10
+Shawnda Lynch Sr.,feliz,sacando,4.35227135E7,N,9.503141025399992E8,10
+Shawnda Lynch Sr.,feliz,depositando,7.834245088E7,N,1.0286565534199992E9,10
+Mr. Huong O'Hara,feliz,sacando,1.8895916248E8,N,8.396973909399992E8,10
+Mr. Huong O'Hara,feliz,depositando,1.7247644835E8,N,1.0121738392899992E9,10
+Rolf Windler,feliz,sacando,5.019363918E7,N,9.619802001099993E8,10
+Rolf Windler,feliz,depositando,2.1976483156E8,N,1.1817450316699994E9,10
+Mitchel Sawayn,feliz,sacando,7.308991459E7,N,1.1086551170799994E9,10
+Mitchel Sawayn,feliz,depositando,2.2676852746E8,N,1.3354236445399995E9,10
+Rachelle Kris,feliz,sacando,1.5646204287E8,N,1.1789616016699996E9,10
+Rachelle Kris,feliz,depositando,2.591119991E7,N,1.2048728015799997E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.5660486189E8,N,1.0482679396899997E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.5666160551E8,N,1.2049295451999998E9,10
+Annemarie Weissnat DDS,feliz,sacando,1.506249182E7,N,1.1898670533799999E9,10
+Annemarie Weissnat DDS,feliz,depositando,8026654.58,N,1.1978937079599998E9,10
+Ms. Kenneth Mosciski,feliz,sacando,5.949039356E7,N,1.1384033143999999E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.4412980113E8,N,1.2825331155299997E9,10
+Rachelle Kris,feliz,sacando,2.141328673E8,N,1.0684002482299998E9,10
+Rachelle Kris,feliz,depositando,1.3832735684E8,N,1.2067276050699997E9,10
+Mitchel Sawayn,feliz,sacando,2.6626153485E8,N,9.404660702199997E8,10
+Mitchel Sawayn,feliz,depositando,4.694629288E7,N,9.874123630999997E8,10
+Rolf Windler,feliz,sacando,1.6922831321E8,N,8.181840498899996E8,10
+Rolf Windler,feliz,depositando,3.772935578E7,N,8.559134056699996E8,10
+Mr. Huong O'Hara,feliz,sacando,1.0547754045E8,N,7.504358652199996E8,10
+Mr. Huong O'Hara,feliz,depositando,2.3448840584E8,N,9.849242710599996E8,10
+Shawnda Lynch Sr.,feliz,sacando,3.79103506E7,N,9.470139204599996E8,10
+Shawnda Lynch Sr.,feliz,depositando,1.732332548E8,N,1.1202471752599995E9,10
+Cassi Waters,feliz,sacando,6.207447937E7,N,1.0581726958899995E9,10
+Cassi Waters,feliz,depositando,3.375329898E7,N,1.0919259948699994E9,10
+Ada Ruecker,feliz,sacando,2.090735844E7,N,1.0710186364299994E9,10
+Ada Ruecker,feliz,depositando,2.5122868187E8,N,1.3222473182999992E9,10
+Andrew McDermott,feliz,sacando,1.1400214327E8,N,1.2082451750299993E9,10
+Andrew McDermott,feliz,depositando,1.9559961422E8,N,1.4038447892499993E9,10
+Ada Ruecker,feliz,sacando,2.4805779237E8,N,1.1557869968799992E9,10
+Ada Ruecker,feliz,depositando,2.5609820943E8,N,1.4118852063099992E9,10
+Cassi Waters,feliz,sacando,1.3887623311E8,N,1.2730089731999993E9,10
+Cassi Waters,feliz,depositando,4.269044872E7,N,1.3156994219199994E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.2244231476E8,N,1.1932571071599994E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.346952753E8,N,1.3279523824599993E9,10
+Mr. Huong O'Hara,feliz,sacando,1.5497971818E8,N,1.1729726642799993E9,10
+Mr. Huong O'Hara,feliz,depositando,1.7253812217E8,N,1.3455107864499993E9,10
+Rolf Windler,feliz,sacando,6.044129844E7,N,1.2850694880099993E9,10
+Rolf Windler,feliz,depositando,1.0629327673E8,N,1.3913627647399993E9,10
+Mitchel Sawayn,feliz,sacando,6.923939606E7,N,1.3221233686799994E9,10
+Mitchel Sawayn,feliz,depositando,1.9012813674E8,N,1.5122515054199994E9,10
+Rachelle Kris,feliz,sacando,1.7150752243E8,N,1.3407439829899993E9,10
+Rachelle Kris,feliz,depositando,9.668325053E7,N,1.4374272335199993E9,10
+Ms. Kenneth Mosciski,feliz,sacando,6.95362638E7,N,1.3678909697199993E9,10
+Ms. Kenneth Mosciski,feliz,depositando,2.8028507178E8,N,1.6481760414999993E9,10
+Annemarie Weissnat DDS,feliz,sacando,5.354203165E7,N,1.5946340098499992E9,10
+Annemarie Weissnat DDS,feliz,depositando,1.2178986554E8,N,1.7164238753899992E9,10
+Ms. Kenneth Mosciski,feliz,sacando,3.2583012487E8,N,1.390593750519999E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.8208470981E8,N,1.572678460329999E9,10
+Rachelle Kris,feliz,sacando,2.0832671305E8,N,1.364351747279999E9,10
+Rachelle Kris,feliz,depositando,2.5922221217E8,N,1.623573959449999E9,10
+Mitchel Sawayn,feliz,sacando,2.482597487E8,N,1.375314210749999E9,10
+Mitchel Sawayn,feliz,depositando,7.942837011E7,N,1.454742580859999E9,10
+Rolf Windler,feliz,sacando,1.57690666E7,N,1.438973514259999E9,10
+Rolf Windler,feliz,depositando,1.3985516297E8,N,1.578828677229999E9,10
+Mr. Huong O'Hara,feliz,sacando,5.20634875E7,N,1.526765189729999E9,10
+Mr. Huong O'Hara,feliz,depositando,1.6780315478E8,N,1.694568344509999E9,10
+Shawnda Lynch Sr.,feliz,sacando,9.134510881E7,N,1.603223235699999E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.1602929423E8,N,1.719252529929999E9,10
+Cassi Waters,feliz,sacando,1.7783159886E8,N,1.5414209310699992E9,10
+Cassi Waters,feliz,depositando,1.0832129071E8,N,1.6497422217799993E9,10
+Ada Ruecker,feliz,sacando,2.6004781689E8,N,1.3896944048899994E9,10
+Ada Ruecker,feliz,depositando,2.1112903426E8,N,1.6008234391499994E9,10
+Andrew McDermott,feliz,sacando,1.8894092685E8,N,1.4118825122999995E9,10
+Andrew McDermott,feliz,depositando,1.2713445266E8,N,1.5390169649599996E9,10
+Ada Ruecker,feliz,sacando,1.5872296084E8,N,1.3802940041199996E9,10
+Ada Ruecker,feliz,depositando,2.8647757527E8,N,1.6667715793899996E9,10
+Cassi Waters,feliz,sacando,2.4623923024E8,N,1.4205323491499996E9,10
+Cassi Waters,feliz,depositando,2.4723682523E8,N,1.6677691743799996E9,10
+Shawnda Lynch Sr.,feliz,sacando,2.4245363213E8,N,1.4253155422499995E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.813988105E8,N,1.6067143527499995E9,10
+Mr. Huong O'Hara,feliz,sacando,3.832464825E7,N,1.5683897044999995E9,10
+Mr. Huong O'Hara,feliz,depositando,1.5169880831E8,N,1.7200885128099995E9,10
+Rolf Windler,feliz,sacando,3.672621004E7,N,1.6833623027699995E9,10
+Rolf Windler,feliz,depositando,2.0200897799E8,N,1.8853712807599995E9,10
+Mitchel Sawayn,feliz,sacando,2.0040131E8,N,1.6849699707599995E9,10
+Mitchel Sawayn,feliz,depositando,3.2868932433E8,N,2.0136592950899994E9,10
+Rachelle Kris,feliz,sacando,1.558438226E8,N,1.8578154724899995E9,10
+Rachelle Kris,feliz,depositando,1.9361270617E8,N,2.0514281786599996E9,10
+Ms. Kenneth Mosciski,feliz,sacando,2.0619306024E8,N,1.8452351184199996E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.282005442E7,N,1.8580551728399997E9,10
+Annemarie Weissnat DDS,feliz,sacando,4.835865227E7,N,1.8096965205699997E9,10
+Annemarie Weissnat DDS,feliz,depositando,1.0190656218E8,N,1.9116030827499998E9,10
+Ms. Kenneth Mosciski,feliz,sacando,2.6705399552E8,N,1.6445490872299998E9,10
+Ms. Kenneth Mosciski,feliz,depositando,2.7442454666E8,N,1.9189736338899999E9,10
+Rachelle Kris,feliz,sacando,3.9600153351E8,N,1.5229721003799999E9,10
+Rachelle Kris,feliz,depositando,2.3550549642E8,N,1.7584775968E9,10
+Mitchel Sawayn,feliz,sacando,2.9879465205E8,N,1.45968294475E9,10
+Mitchel Sawayn,feliz,depositando,1.8062028596E8,N,1.64030323071E9,10
+Rolf Windler,feliz,sacando,2.6301953571E8,N,1.377283695E9,10
+Rolf Windler,feliz,depositando,1.6104392156E8,N,1.53832761656E9,10
+Mr. Huong O'Hara,feliz,sacando,1.1670242105E8,N,1.42162519551E9,10
+Mr. Huong O'Hara,feliz,depositando,4.0397712292E8,N,1.82560231843E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.8529630526E8,N,1.64030601317E9,10
+Shawnda Lynch Sr.,feliz,depositando,9.883495869E7,N,1.7391409718600001E9,10
+Cassi Waters,feliz,sacando,2.6672012926E8,N,1.4724208426000001E9,10
+Cassi Waters,feliz,depositando,1.294990403E7,N,1.48537074663E9,10
+Ada Ruecker,feliz,sacando,6.089071906E7,N,1.4244800275700002E9,10
+Ada Ruecker,feliz,depositando,1.925178741E8,N,1.61699790167E9,10
+Andrew McDermott,feliz,sacando,3.289017273E7,N,1.58410772894E9,10
+Andrew McDermott,feliz,depositando,5.230987149E7,N,1.63641760043E9,10
+Ada Ruecker,feliz,sacando,1.656473885E8,N,1.47077021193E9,10
+Ada Ruecker,feliz,depositando,3.0579892751E8,N,1.77656913944E9,10
+Cassi Waters,feliz,sacando,9922403.28,N,1.76664673616E9,10
+Cassi Waters,feliz,depositando,3.0449501983E8,N,2.07114175599E9,10
+Shawnda Lynch Sr.,feliz,sacando,5.966822216E7,N,2.01147353383E9,10
+Shawnda Lynch Sr.,feliz,depositando,2.7031572312E8,N,2.28178925695E9,10
+Mr. Huong O'Hara,feliz,sacando,1.1498070369E8,N,2.1668085532599998E9,10
+Mr. Huong O'Hara,feliz,depositando,3.0671487732E8,N,2.47352343058E9,10
+Rolf Windler,feliz,sacando,2.7855691146E8,N,2.19496651912E9,10
+Rolf Windler,feliz,depositando,1.17129576E7,N,2.20667947672E9,10
+Mitchel Sawayn,feliz,sacando,1.2827537906E8,N,2.0784040976599998E9,10
+Mitchel Sawayn,feliz,depositando,1.1499522541E8,N,2.1933993230699997E9,10
+Rachelle Kris,feliz,sacando,1.489488244E8,N,2.0444504986699996E9,10
+Rachelle Kris,feliz,depositando,3.864074567E8,N,2.4308579553699994E9,10
+Ms. Kenneth Mosciski,feliz,sacando,8.226793073E7,N,2.3485900246399994E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.7521185251E8,N,2.5238018771499996E9,10
+Annemarie Weissnat DDS,feliz,sacando,2.9251964467E8,N,2.2312822324799995E9,10
+Annemarie Weissnat DDS,feliz,depositando,8143974.66,N,2.2394262071399994E9,10
+Ms. Kenneth Mosciski,feliz,sacando,2.3653009133E8,N,2.0028961158099995E9,10
+Ms. Kenneth Mosciski,feliz,depositando,2.0773637361E8,N,2.2106324894199996E9,10
+Rachelle Kris,feliz,sacando,2.7337369806E8,N,1.9372587913599997E9,10
+Rachelle Kris,feliz,depositando,3.69562738E7,N,1.9742150651599996E9,10
+Mitchel Sawayn,feliz,sacando,4.293017975E7,N,1.9312848854099996E9,10
+Mitchel Sawayn,feliz,depositando,5.204128211E8,N,2.4516977065099998E9,10
+Rolf Windler,feliz,sacando,2.0132985106E8,N,2.25036785545E9,10
+Rolf Windler,feliz,depositando,3.9753194278E8,N,2.6478997982299995E9,10
+Mr. Huong O'Hara,feliz,sacando,1.6015267404E8,N,2.4877471241899996E9,10
+Mr. Huong O'Hara,feliz,depositando,2.414542836E7,N,2.5118925525499997E9,10
+Shawnda Lynch Sr.,feliz,sacando,3.755585302E8,N,2.1363340223499997E9,10
+Shawnda Lynch Sr.,feliz,depositando,2.993684997E7,N,2.1662708723199997E9,10
+Cassi Waters,feliz,sacando,2.3185079718E8,N,1.9344200751399996E9,10
+Cassi Waters,feliz,depositando,1.9451725786E8,N,2.1289373329999995E9,10
+Ada Ruecker,feliz,sacando,1.3137206681E8,N,1.9975652661899996E9,10
+Ada Ruecker,feliz,depositando,3.3707250352E8,N,2.3346377697099996E9,10
+Andrew McDermott,feliz,sacando,1.5614592463E8,N,2.1784918450799994E9,10
+Andrew McDermott,feliz,depositando,2.099956913E8,N,2.3884875363799996E9,10
+Ada Ruecker,feliz,sacando,2.79187633E7,N,2.3605687730799994E9,10
+Ada Ruecker,feliz,depositando,1.2847848972E8,N,2.489047262799999E9,10
+Cassi Waters,feliz,sacando,3.106267253E7,N,2.457984590269999E9,10
+Cassi Waters,feliz,depositando,5.1400103809E8,N,2.971985628359999E9,10
+Shawnda Lynch Sr.,feliz,sacando,3.0617551456E8,N,2.665810113799999E9,10
+Shawnda Lynch Sr.,feliz,depositando,6.980922369E7,N,2.7356193374899993E9,10
+Mr. Huong O'Hara,feliz,sacando,1.6073637215E8,N,2.574882965339999E9,10
+Mr. Huong O'Hara,feliz,depositando,5.2281186211E8,N,3.0976948274499993E9,10
+Rolf Windler,feliz,sacando,4.406565296E7,N,3.0536291744899993E9,10
+Rolf Windler,feliz,depositando,1.9459787142E8,N,3.2482270459099994E9,10
+Mitchel Sawayn,feliz,sacando,2.568345567E7,N,3.2225435902399993E9,10
+Mitchel Sawayn,feliz,depositando,4.9403188813E8,N,3.7165754783699994E9,10
+Rachelle Kris,feliz,sacando,1.4887989666E8,N,3.5676955817099996E9,10
+Rachelle Kris,feliz,depositando,4.1772181888E8,N,3.9854174005899997E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.975011576E8,N,3.78791624299E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.5984612414E8,N,3.9477623671299996E9,10
+Annemarie Weissnat DDS,feliz,sacando,2.8168967112E8,N,3.6660726960099998E9,10
+Annemarie Weissnat DDS,feliz,depositando,3.6828490493E8,N,4.0343576009399996E9,10
+Ms. Kenneth Mosciski,feliz,sacando,4.643206549E7,N,3.98792553545E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.7340450762E8,N,4.1613300430699997E9,10
+Rachelle Kris,feliz,sacando,2.545284929E7,N,4.1358771937799997E9,10
+Rachelle Kris,feliz,depositando,4.6997373826E8,N,4.60585093204E9,10
+Mitchel Sawayn,feliz,sacando,1.4475399407E8,N,4.46109693797E9,10
+Mitchel Sawayn,feliz,depositando,3.479726212E8,N,4.80906955917E9,10
+Rolf Windler,feliz,sacando,4.065721224E8,N,4.40249743677E9,10
+Rolf Windler,feliz,depositando,2.9340665347E8,N,4.695904090240001E9,10
+Mr. Huong O'Hara,feliz,sacando,5.313438587E7,N,4.642769704370001E9,10
+Mr. Huong O'Hara,feliz,depositando,3.2085353175E8,N,4.963623236120001E9,10
+Shawnda Lynch Sr.,feliz,sacando,4.5139163769E8,N,4.512231598430001E9,10
+Shawnda Lynch Sr.,feliz,depositando,6.4433338874E8,N,5.156564987170001E9,10
+Cassi Waters,feliz,sacando,6.483743264E7,N,5.091727554530001E9,10
+Cassi Waters,feliz,depositando,9.355720253E7,N,5.18528475706E9,10
+Ada Ruecker,feliz,sacando,2.8130725833E8,N,4.9039774987300005E9,10
+Ada Ruecker,feliz,depositando,4.7875752554E8,N,5.38273502427E9,10
+Andrew McDermott,feliz,sacando,3.0159201148E8,N,5.081143012790001E9,10
+Andrew McDermott,feliz,depositando,5.2999012944E8,N,5.6111331422300005E9,10
+Ada Ruecker,feliz,sacando,9.4125638749E8,N,4.669876754740001E9,10
+Ada Ruecker,feliz,depositando,1.9581695555E8,N,4.865693710290001E9,10
+Cassi Waters,feliz,sacando,3.8091795936E8,N,4.484775750930001E9,10
+Cassi Waters,feliz,depositando,8.7748789455E8,N,5.362263645480001E9,10
+Shawnda Lynch Sr.,feliz,sacando,6.789724337E8,N,4.683291211780002E9,10
+Shawnda Lynch Sr.,feliz,depositando,6.6272342827E8,N,5.346014640050001E9,10
+Mr. Huong O'Hara,feliz,sacando,8.9301043123E8,N,4.453004208820002E9,10
+Mr. Huong O'Hara,feliz,depositando,2.9843968046E8,N,4.751443889280002E9,10
+Rolf Windler,feliz,sacando,6.8664094712E8,N,4.0648029421600018E9,10
+Rolf Windler,feliz,depositando,8.3582702671E8,N,4.900629968870002E9,10
+Mitchel Sawayn,feliz,sacando,8.592278087E7,N,4.814707188000002E9,10
+Mitchel Sawayn,feliz,depositando,5.3282305672E8,N,5.347530244720002E9,10
+Rachelle Kris,feliz,sacando,3.7246333319E8,N,4.975066911530003E9,10
+Rachelle Kris,feliz,depositando,8.3724196616E8,N,5.812308877690002E9,10
+Ms. Kenneth Mosciski,feliz,sacando,7.0526105766E8,N,5.107047820030003E9,10
+Ms. Kenneth Mosciski,feliz,depositando,6.9928471927E8,N,5.806332539300003E9,10
+Annemarie Weissnat DDS,feliz,sacando,9.68451819E7,N,5.709487357400003E9,10
+Annemarie Weissnat DDS,feliz,depositando,4.100984604E8,N,6.119585817800003E9,10
+Ms. Kenneth Mosciski,feliz,sacando,9.5806514927E8,N,5.161520668530003E9,10
+Ms. Kenneth Mosciski,feliz,depositando,7.732003455E8,N,5.934721014030003E9,10
+Rachelle Kris,feliz,sacando,4.2547030048E8,N,5.509250713550003E9,10
+Rachelle Kris,feliz,depositando,1.10157296745E9,N,6.610823681000003E9,10
+Mitchel Sawayn,feliz,sacando,6.3793039588E8,N,5.972893285120003E9,10
+Mitchel Sawayn,feliz,depositando,2.6481985814E8,N,6.237713143260003E9,10
+Rolf Windler,feliz,sacando,4.7308784962E8,N,5.764625293640003E9,10
+Rolf Windler,feliz,depositando,4.9144444725E8,N,6.256069740890003E9,10
+Mr. Huong O'Hara,feliz,sacando,1.4441101377E8,N,6.111658727120003E9,10
+Mr. Huong O'Hara,feliz,depositando,6.275183703E7,N,6.1744105641500025E9,10
+Shawnda Lynch Sr.,feliz,sacando,4.2521098105E8,N,5.749199583100002E9,10
+Shawnda Lynch Sr.,feliz,depositando,3.832396917E7,N,5.787523552270002E9,10
+Cassi Waters,feliz,sacando,4.6395083748E8,N,5.323572714790003E9,10
+Cassi Waters,feliz,depositando,4.3192222589E8,N,5.755494940680003E9,10
+Ada Ruecker,feliz,sacando,1.0770350348E8,N,5.647791437200004E9,10
+Ada Ruecker,feliz,depositando,4.935782974E7,N,5.697149266940003E9,10
+Andrew McDermott,feliz,sacando,3.5937137631E8,N,5.337777890630003E9,10
+Andrew McDermott,feliz,depositando,3.2978699863E8,N,5.667564889260003E9,10
+Ada Ruecker,feliz,sacando,1.345127963E8,N,5.533052092960003E9,10
+Ada Ruecker,feliz,depositando,9.7292435273E8,N,6.505976445690002E9,10
+Cassi Waters,feliz,sacando,6.64724765E7,N,6.439503969190002E9,10
+Cassi Waters,feliz,depositando,6.4447201073E8,N,7.083975979920002E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.8180165534E8,N,6.902174324580002E9,10
+Shawnda Lynch Sr.,feliz,depositando,8.1444148852E8,N,7.716615813100002E9,10
+Mr. Huong O'Hara,feliz,sacando,6.6131284984E8,N,7.055302963260002E9,10
+Mr. Huong O'Hara,feliz,depositando,6.160243082E7,N,7.116905394080002E9,10
+Rolf Windler,feliz,sacando,3.5232746971E8,N,6.764577924370002E9,10
+Rolf Windler,feliz,depositando,3.8395151552E8,N,7.148529439890001E9,10
+Mitchel Sawayn,feliz,sacando,6.9362522269E8,N,6.454904217200001E9,10
+Mitchel Sawayn,feliz,depositando,3.0357846926E8,N,6.758482686460001E9,10
+Rachelle Kris,feliz,sacando,7.0075844558E8,N,6.057724240880001E9,10
+Rachelle Kris,feliz,depositando,2.344654706E8,N,6.292189711480001E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.8646951323E8,N,6.105720198250002E9,10
+Ms. Kenneth Mosciski,feliz,depositando,7.5216938753E8,N,6.857889585780002E9,10
+Annemarie Weissnat DDS,feliz,sacando,2.3611583008E8,N,6.621773755700002E9,10
+Annemarie Weissnat DDS,feliz,depositando,7.2569584369E8,N,7.347469599390001E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.1857063963E9,N,6.161763203090001E9,10
+Ms. Kenneth Mosciski,feliz,depositando,6.4881854077E8,N,6.810581743860001E9,10
+Rachelle Kris,feliz,sacando,5.69588768E8,N,6.240992975860001E9,10
+Rachelle Kris,feliz,depositando,3.7400354085E8,N,6.614996516710001E9,10
+Mitchel Sawayn,feliz,sacando,6.0266285685E8,N,6.012333659860001E9,10
+Mitchel Sawayn,feliz,depositando,1.925423619E7,N,6.03158789605E9,10
+Rolf Windler,feliz,sacando,3.4720542565E8,N,5.684382470400001E9,10
+Rolf Windler,feliz,depositando,5.0539916985E8,N,6.189781640250001E9,10
+Mr. Huong O'Hara,feliz,sacando,8.4176593319E8,N,5.348015707060001E9,10
+Mr. Huong O'Hara,feliz,depositando,1.14164894738E9,N,6.4896646544400015E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.46016707993E9,N,5.029497574510001E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.32684182346E9,N,6.356339397970001E9,10
+Cassi Waters,feliz,sacando,4.9594783171E8,N,5.860391566260001E9,10
+Cassi Waters,feliz,depositando,9.709981124E7,N,5.957491377500001E9,10
+Ada Ruecker,feliz,sacando,6.0573283864E8,N,5.351758538860001E9,10
+Ada Ruecker,feliz,depositando,1.12841124547E9,N,6.480169784330001E9,10
+Andrew McDermott,feliz,sacando,2.1689440954E8,N,6.263275374790001E9,10
+Andrew McDermott,feliz,depositando,5.5942100577E8,N,6.822696380560001E9,10
+Ada Ruecker,feliz,sacando,6.0347928822E8,N,6.219217092340001E9,10
+Ada Ruecker,feliz,depositando,5.0441853296E8,N,6.723635625300001E9,10
+Cassi Waters,feliz,sacando,1.00829944972E9,N,5.715336175580001E9,10
+Cassi Waters,feliz,depositando,8.6591938818E8,N,6.581255563760001E9,10
+Shawnda Lynch Sr.,feliz,sacando,4.5103822125E8,N,6.130217342510001E9,10
+Shawnda Lynch Sr.,feliz,depositando,2.9418142249E8,N,6.424398765000001E9,10
+Mr. Huong O'Hara,feliz,sacando,7.044959203E7,N,6.353949172970001E9,10
+Mr. Huong O'Hara,feliz,depositando,1.34890909267E9,N,7.702858265640001E9,10
+Rolf Windler,feliz,sacando,9.9777361894E8,N,6.705084646700001E9,10
+Rolf Windler,feliz,depositando,1.37014377014E9,N,8.075228416840001E9,10
+Mitchel Sawayn,feliz,sacando,1.12287533083E9,N,6.952353086010001E9,10
+Mitchel Sawayn,feliz,depositando,5.9244255768E8,N,7.5447956436900015E9,10
+Rachelle Kris,feliz,sacando,1.089676017E8,N,7.435828041990002E9,10
+Rachelle Kris,feliz,depositando,1.53437449079E9,N,8.970202532780003E9,10
+Ms. Kenneth Mosciski,feliz,sacando,9.3064778819E8,N,8.039554744590002E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.44194870462E9,N,9.481503449210003E9,10
+Annemarie Weissnat DDS,feliz,sacando,3.5031401303E8,N,9.131189436180002E9,10
+Annemarie Weissnat DDS,feliz,depositando,1.76847740727E9,N,1.0899666843450003E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.03527928432E9,N,9.864387559130003E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.4243978094E9,N,1.1288785368530003E10,10
+Rachelle Kris,feliz,sacando,1.07313464917E9,N,1.0215650719360003E10,10
+Rachelle Kris,feliz,depositando,1.66753605159E9,N,1.1883186770950003E10,10
+Mitchel Sawayn,feliz,sacando,1.50020009674E9,N,1.0382986674210003E10,10
+Mitchel Sawayn,feliz,depositando,8360249.96,N,1.0391346924170002E10,10
+Rolf Windler,feliz,sacando,9.5473515531E8,N,9.436611768860003E9,10
+Rolf Windler,feliz,depositando,1.81110587843E9,N,1.1247717647290003E10,10
+Mr. Huong O'Hara,feliz,sacando,6.6990696178E8,N,1.0577810685510002E10,10
+Mr. Huong O'Hara,feliz,depositando,2.8018527951E8,N,1.0857995965020002E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.10110912381E9,N,9.756886841210003E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.3745774422E9,N,1.1131464283410004E10,10
+Cassi Waters,feliz,sacando,6.8502765313E8,N,1.0446436630280005E10,10
+Cassi Waters,feliz,depositando,1.38624385583E9,N,1.1832680486110004E10,10
+Ada Ruecker,feliz,sacando,6.913085816E8,N,1.1141371904510004E10,10
+Ada Ruecker,feliz,depositando,1.34389724165E9,N,1.2485269146160004E10,10
+Andrew McDermott,feliz,sacando,1.30460239925E9,N,1.1180666746910004E10,10
+Andrew McDermott,feliz,depositando,1.06321703988E9,N,1.2243883786790003E10,10
+Ada Ruecker,feliz,sacando,1.52989484928E9,N,1.0713988937510002E10,10
+Ada Ruecker,feliz,depositando,1.46530846652E9,N,1.2179297404030003E10,10
+Cassi Waters,feliz,sacando,4.2273581353E8,N,1.1756561590500002E10,10
+Cassi Waters,feliz,depositando,1.18051643002E9,N,1.2937078020520002E10,10
+Shawnda Lynch Sr.,feliz,sacando,9.9991839083E8,N,1.1937159629690002E10,10
+Shawnda Lynch Sr.,feliz,depositando,9.8370297661E8,N,1.2920862606300003E10,10
+Mr. Huong O'Hara,feliz,sacando,1.16670178646E9,N,1.1754160819840004E10,10
+Mr. Huong O'Hara,feliz,depositando,1.4772159112E9,N,1.3231376731040005E10,10
+Rolf Windler,feliz,sacando,1.10101738043E9,N,1.2130359350610004E10,10
+Rolf Windler,feliz,depositando,1.91736003237E9,N,1.4047719382980003E10,10
+Mitchel Sawayn,feliz,sacando,2.06854011283E9,N,1.1979179270150003E10,10
+Mitchel Sawayn,feliz,depositando,1.71118977258E9,N,1.3690369042730003E10,10
+Rachelle Kris,feliz,sacando,2.08074229147E9,N,1.1609626751260004E10,10
+Rachelle Kris,feliz,depositando,1.13373994274E9,N,1.2743366694000004E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.126832188E7,N,1.2722098372120005E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.62078876361E9,N,1.4342887135730005E10,10
+Annemarie Weissnat DDS,feliz,sacando,5.6945821339E8,N,1.3773428922340006E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.21779122098E9,N,1.4991220143320005E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.14338549666E9,N,1.2847834646660006E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.32907678832E9,N,1.4176911434980005E10,10
+Rachelle Kris,feliz,sacando,7.766539854E7,N,1.4099246036440004E10,10
+Rachelle Kris,feliz,depositando,1.53203265767E9,N,1.5631278694110004E10,10
+Mitchel Sawayn,feliz,sacando,2.07551424625E9,N,1.3555764447860004E10,10
+Mitchel Sawayn,feliz,depositando,2.08006735182E9,N,1.5635831799680004E10,10
+Rolf Windler,feliz,sacando,1.58991653244E9,N,1.4045915267240004E10,10
+Rolf Windler,feliz,depositando,2.472177737E7,N,1.4070637044610004E10,10
+Mr. Huong O'Hara,feliz,sacando,1.3521908419E9,N,1.2718446202710005E10,10
+Mr. Huong O'Hara,feliz,depositando,2.528277171E8,N,1.2971273919810005E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.49333880015E9,N,1.1477935119660006E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.88087026219E9,N,1.3358805381850006E10,10
+Cassi Waters,feliz,sacando,1.19184417704E9,N,1.2166961204810005E10,10
+Cassi Waters,feliz,depositando,2.0818537408E9,N,1.4248814945610004E10,10
+Ada Ruecker,feliz,sacando,8.55835662E8,N,1.3392979283610004E10,10
+Ada Ruecker,feliz,depositando,4.3087015087E8,N,1.3823849434480005E10,10
+Andrew McDermott,feliz,sacando,2.05432666894E9,N,1.1769522765540005E10,10
+Andrew McDermott,feliz,depositando,8.1250599551E8,N,1.2582028761050005E10,10
+Ada Ruecker,feliz,sacando,2.00201569742E9,N,1.0580013063630005E10,10
+Ada Ruecker,feliz,depositando,1.00734650685E9,N,1.1587359570480005E10,10
+Cassi Waters,feliz,sacando,5.7055460965E8,N,1.1016804960830006E10,10
+Cassi Waters,feliz,depositando,6.6186668476E8,N,1.1678671645590006E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.93285040398E9,N,9.745821241610006E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.61264339923E9,N,1.1358464640840006E10,10
+Mr. Huong O'Hara,feliz,sacando,1.73024919077E9,N,9.628215450070005E9,10
+Mr. Huong O'Hara,feliz,depositando,1.98320702706E9,N,1.1611422477130005E10,10
+Rolf Windler,feliz,sacando,1.57224127697E9,N,1.0039181200160006E10,10
+Rolf Windler,feliz,depositando,3.161313933E7,N,1.0070794339490005E10,10
+Mitchel Sawayn,feliz,sacando,1.36672752978E9,N,8.704066809710005E9,10
+Mitchel Sawayn,feliz,depositando,1.07730918653E9,N,9.781375996240005E9,10
+Rachelle Kris,feliz,sacando,1.59565669413E9,N,8.185719302110005E9,10
+Rachelle Kris,feliz,depositando,6.3011965126E8,N,8.815838953370005E9,10
+Ms. Kenneth Mosciski,feliz,sacando,2.06811330795E9,N,6.747725645420005E9,10
+Ms. Kenneth Mosciski,feliz,depositando,7.7590006637E8,N,7.523625711790005E9,10
+Annemarie Weissnat DDS,feliz,sacando,9.4448336868E8,N,6.579142343110004E9,10
+Annemarie Weissnat DDS,feliz,depositando,5.9048226951E8,N,7.169624612620005E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.28033773196E9,N,5.889286880660005E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.14151783013E9,N,7.030804710790005E9,10
+Rachelle Kris,feliz,sacando,1.0363513884E9,N,5.994453322390005E9,10
+Rachelle Kris,feliz,depositando,1.22460163778E9,N,7.219054960170005E9,10
+Mitchel Sawayn,feliz,sacando,7.0398390038E8,N,6.515071059790005E9,10
+Mitchel Sawayn,feliz,depositando,1.70183986307E9,N,8.216910922860004E9,10
+Rolf Windler,feliz,sacando,5.6459366369E8,N,7.652317259170004E9,10
+Rolf Windler,feliz,depositando,8.6001538932E8,N,8.512332648490004E9,10
+Mr. Huong O'Hara,feliz,sacando,1.82844197417E9,N,6.6838906743200035E9,10
+Mr. Huong O'Hara,feliz,depositando,6.5703084881E8,N,7.340921523130003E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.17049435352E9,N,6.1704271696100025E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.12780268914E9,N,7.298229858750003E9,10
+Cassi Waters,feliz,sacando,1.0242138517E8,N,7.195808473580003E9,10
+Cassi Waters,feliz,depositando,1.78688981963E9,N,8.982698293210003E9,10
+Ada Ruecker,feliz,sacando,1.15353648191E9,N,7.829161811300003E9,10
+Ada Ruecker,feliz,depositando,1.03059088435E9,N,8.859752695650003E9,10
+Andrew McDermott,feliz,sacando,8.1702400978E8,N,8.042728685870004E9,10
+Andrew McDermott,feliz,depositando,2.0270731206E9,N,1.0069801806470003E10,10
+Ada Ruecker,feliz,sacando,1.65807749445E9,N,8.411724312020003E9,10
+Ada Ruecker,feliz,depositando,5.4194540759E8,N,8.953669719610003E9,10
+Cassi Waters,feliz,sacando,9.7549530585E8,N,7.978174413760002E9,10
+Cassi Waters,feliz,depositando,1.26177937691E9,N,9.239953790670002E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.06706456224E9,N,8.172889228430002E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.42545876619E9,N,9.598347994620003E9,10
+Mr. Huong O'Hara,feliz,sacando,9.9609793777E8,N,8.602250056850002E9,10
+Mr. Huong O'Hara,feliz,depositando,4.743321365E8,N,9.076582193350002E9,10
+Rolf Windler,feliz,sacando,2.059772031E7,N,9.055984473040003E9,10
+Rolf Windler,feliz,depositando,1.75459098041E9,N,1.0810575453450003E10,10
+Mitchel Sawayn,feliz,sacando,1.41357675015E9,N,9.396998703300003E9,10
+Mitchel Sawayn,feliz,depositando,1.75606757985E9,N,1.1153066283150003E10,10
+Rachelle Kris,feliz,sacando,1.34547400134E9,N,9.807592281810003E9,10
+Rachelle Kris,feliz,depositando,1.68199273316E9,N,1.1489585014970003E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.05771432069E9,N,1.0431870694280003E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.09349526132E9,N,1.1525365955600002E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.32740217527E9,N,1.0197963780330002E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.5047924809E9,N,1.1702756261230001E10,10
+Ms. Kenneth Mosciski,feliz,sacando,5.651487085E7,N,1.1646241390380001E10,10
+Ms. Kenneth Mosciski,feliz,depositando,5.368295778E7,N,1.1699924348160002E10,10
+Rachelle Kris,feliz,sacando,1.60435074144E9,N,1.0095573606720001E10,10
+Rachelle Kris,feliz,depositando,1.21539008123E9,N,1.131096368795E10,10
+Mitchel Sawayn,feliz,sacando,1.46408639897E9,N,9.846877288980001E9,10
+Mitchel Sawayn,feliz,depositando,5.3069163051E8,N,1.0377568919490002E10,10
+Rolf Windler,feliz,sacando,6.0841932312E8,N,9.76914959637E9,10
+Rolf Windler,feliz,depositando,2.09116249123E9,N,1.18603120876E10,10
+Mr. Huong O'Hara,feliz,sacando,4.553304914E7,N,1.1814779038460001E10,10
+Mr. Huong O'Hara,feliz,depositando,9.8186552439E8,N,1.279664456285E10,10
+Shawnda Lynch Sr.,feliz,sacando,4.3762373067E8,N,1.235902083218E10,10
+Shawnda Lynch Sr.,feliz,depositando,7.568770509E8,N,1.311589788308E10,10
+Cassi Waters,feliz,sacando,1.63270105275E9,N,1.148319683033E10,10
+Cassi Waters,feliz,depositando,1.19077799388E9,N,1.267397482421E10,10
+Ada Ruecker,feliz,sacando,1.6966922889E9,N,1.097728253531E10,10
+Ada Ruecker,feliz,depositando,1.48342055811E9,N,1.246070309342E10,10
+Andrew McDermott,feliz,sacando,7.6133948219E8,N,1.169936361123E10,10
+Andrew McDermott,feliz,depositando,1.45181774843E9,N,1.315118135966E10,10
+Ada Ruecker,feliz,sacando,1.53805298426E9,N,1.16131283754E10,10
+Ada Ruecker,feliz,depositando,1.51830774841E9,N,1.313143612381E10,10
+Cassi Waters,feliz,sacando,1.77979884833E9,N,1.135163727548E10,10
+Cassi Waters,feliz,depositando,1.18800374865E9,N,1.253964102413E10,10
+Shawnda Lynch Sr.,feliz,sacando,3.768871424E7,N,1.250195230989E10,10
+Shawnda Lynch Sr.,feliz,depositando,4.260032392E8,N,1.292795554909E10,10
+Mr. Huong O'Hara,feliz,sacando,2.0127785744E9,N,1.091517697469E10,10
+Mr. Huong O'Hara,feliz,depositando,6.1420550468E8,N,1.152938247937E10,10
+Rolf Windler,feliz,sacando,1.1250845593E8,N,1.141687402344E10,10
+Rolf Windler,feliz,depositando,2.5115702924E8,N,1.166803105268E10,10
+Mitchel Sawayn,feliz,sacando,2.7619344062E8,N,1.139183761206E10,10
+Mitchel Sawayn,feliz,depositando,5.2171721184E8,N,1.19135548239E10,10
+Rachelle Kris,feliz,sacando,7089937.05,N,1.190646488685E10,10
+Rachelle Kris,feliz,depositando,1.51554319702E9,N,1.342200808387E10,10
+Ms. Kenneth Mosciski,feliz,sacando,3.800229355E8,N,1.304198514837E10,10
+Ms. Kenneth Mosciski,feliz,depositando,9.4607079345E8,N,1.3988055941820002E10,10
+Annemarie Weissnat DDS,feliz,sacando,2.07526061011E9,N,1.1912795331710001E10,10
+Annemarie Weissnat DDS,feliz,depositando,8.35092044E7,N,1.199630453611E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.10723681994E9,N,9.88906771617E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.34396327452E9,N,1.123303099069E10,10
+Rachelle Kris,feliz,sacando,7.6383336032E8,N,1.046919763037E10,10
+Rachelle Kris,feliz,depositando,1.10513241284E9,N,1.1574330043210001E10,10
+Mitchel Sawayn,feliz,sacando,1.98154603879E9,N,9.592784004420002E9,10
+Mitchel Sawayn,feliz,depositando,3.1523431164E8,N,9.908018316060001E9,10
+Rolf Windler,feliz,sacando,1.26777732282E9,N,8.640240993240002E9,10
+Rolf Windler,feliz,depositando,1.88603467298E9,N,1.0526275666220001E10,10
+Mr. Huong O'Hara,feliz,sacando,1.94613513484E9,N,8.580140531380001E9,10
+Mr. Huong O'Hara,feliz,depositando,1.78435407678E9,N,1.0364494608160002E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.16308626568E9,N,9.201408342480001E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.1053089512E9,N,1.0306717293680002E10,10
+Cassi Waters,feliz,sacando,8.8994442321E8,N,9.416772870470001E9,10
+Cassi Waters,feliz,depositando,1.21892936966E9,N,1.0635702240130001E10,10
+Ada Ruecker,feliz,sacando,1.41432025236E9,N,9.22138198777E9,10
+Ada Ruecker,feliz,depositando,1.76739807434E9,N,1.098878006211E10,10
+Andrew McDermott,feliz,sacando,1.25861866763E9,N,9.73016139448E9,10
+Andrew McDermott,feliz,depositando,5.4260733907E8,N,1.027276873355E10,10
+Ada Ruecker,feliz,sacando,7.6470295124E8,N,9.50806578231E9,10
+Ada Ruecker,feliz,depositando,7.1033940934E8,N,1.021840519165E10,10
+Cassi Waters,feliz,sacando,1.3696375489E9,N,8.84876764275E9,10
+Cassi Waters,feliz,depositando,2.1498173544E8,N,9.06374937819E9,10
+Shawnda Lynch Sr.,feliz,sacando,6.2992019227E8,N,8.43382918592E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.71043172312E9,N,1.014426090904E10,10
+Mr. Huong O'Hara,feliz,sacando,1.81012437756E9,N,8.334136531480001E9,10
+Mr. Huong O'Hara,feliz,depositando,1.0748307466E9,N,9.408967278080002E9,10
+Rolf Windler,feliz,sacando,6.456494481E7,N,9.344402333270002E9,10
+Rolf Windler,feliz,depositando,1.0084863609E8,N,9.445250969360003E9,10
+Mitchel Sawayn,feliz,sacando,1.91905552048E9,N,7.526195448880003E9,10
+Mitchel Sawayn,feliz,depositando,1.00096901617E9,N,8.527164465050003E9,10
+Rachelle Kris,feliz,sacando,2.13035375613E9,N,6.396810708920003E9,10
+Rachelle Kris,feliz,depositando,1.72021480669E9,N,8.1170255156100025E9,10
+Ms. Kenneth Mosciski,feliz,sacando,9.541551221E8,N,7.162870393510002E9,10
+Ms. Kenneth Mosciski,feliz,depositando,9.0499376511E8,N,8.067864158620002E9,10
+Annemarie Weissnat DDS,feliz,sacando,5.9112739045E8,N,7.476736768170002E9,10
+Annemarie Weissnat DDS,feliz,depositando,1.98251334396E9,N,9.459250112130001E9,10
+Ms. Kenneth Mosciski,feliz,sacando,9.5782460832E8,N,8.501425503810001E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.74665645331E9,N,1.024808195712E10,10
+Rachelle Kris,feliz,sacando,1.32779841713E9,N,8.920283539990002E9,10
+Rachelle Kris,feliz,depositando,3.4780445579E8,N,9.268087995780003E9,10
+Mitchel Sawayn,feliz,sacando,1.65659253757E9,N,7.611495458210003E9,10
+Mitchel Sawayn,feliz,depositando,2.01281960844E9,N,9.624315066650003E9,10
+Rolf Windler,feliz,sacando,2.391674052E8,N,9.385147661450003E9,10
+Rolf Windler,feliz,depositando,1.57861940621E9,N,1.0963767067660004E10,10
+Mr. Huong O'Hara,feliz,sacando,6.2847857639E8,N,1.0335288491270004E10,10
+Mr. Huong O'Hara,feliz,depositando,1.39357228783E9,N,1.1728860779100004E10,10
+Shawnda Lynch Sr.,feliz,sacando,2.3051461243E8,N,1.1498346166670004E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.8089725421E8,N,1.1779243420880003E10,10
+Cassi Waters,feliz,sacando,5.9244132281E8,N,1.1186802098070004E10,10
+Cassi Waters,feliz,depositando,2.12428855847E9,N,1.3311090656540003E10,10
+Ada Ruecker,feliz,sacando,1.01155164385E9,N,1.2299539012690002E10,10
+Ada Ruecker,feliz,depositando,9.467862694E7,N,1.2394217639630003E10,10
+Andrew McDermott,feliz,sacando,2.04842368185E9,N,1.0345793957780003E10,10
+Andrew McDermott,feliz,depositando,1.08527584048E9,N,1.1431069798260002E10,10
+Ada Ruecker,feliz,sacando,1.59687921788E9,N,9.834190580380001E9,10
+Ada Ruecker,feliz,depositando,8.4966403181E8,N,1.068385461219E10,10
+Cassi Waters,feliz,sacando,4.8011682358E8,N,1.020373778861E10,10
+Cassi Waters,feliz,depositando,4.7964180207E8,N,1.068337959068E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.49169467042E9,N,9.19168492026E9,10
+Shawnda Lynch Sr.,feliz,depositando,2.01580722305E9,N,1.120749214331E10,10
+Mr. Huong O'Hara,feliz,sacando,2.04597935912E9,N,9.161512784189999E9,10
+Mr. Huong O'Hara,feliz,depositando,1.42432070365E9,N,1.0585833487839998E10,10
+Rolf Windler,feliz,sacando,1.22614597248E9,N,9.359687515359999E9,10
+Rolf Windler,feliz,depositando,7.2159430875E8,N,1.0081281824109999E10,10
+Mitchel Sawayn,feliz,sacando,4.2590157202E8,N,9.655380252089998E9,10
+Mitchel Sawayn,feliz,depositando,1.0236110651E8,N,9.757741358599998E9,10
+Rachelle Kris,feliz,sacando,1.06057270219E9,N,8.697168656409998E9,10
+Rachelle Kris,feliz,depositando,3.0124972984E8,N,8.998418386249998E9,10
+Ms. Kenneth Mosciski,feliz,sacando,6.9568326704E8,N,8.302735119209998E9,10
+Ms. Kenneth Mosciski,feliz,depositando,2.7909401143E8,N,8.581829130639998E9,10
+Annemarie Weissnat DDS,feliz,sacando,1.45811389196E9,N,7.123715238679998E9,10
+Annemarie Weissnat DDS,feliz,depositando,1.83940036293E9,N,8.963115601609999E9,10
+Ms. Kenneth Mosciski,feliz,sacando,8.3400215006E8,N,8.129113451549999E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.78146110478E9,N,9.91057455633E9,10
+Rachelle Kris,feliz,sacando,1.36462862855E9,N,8.54594592778E9,10
+Rachelle Kris,feliz,depositando,2.1408702147E9,N,1.068681614248E10,10
+Mitchel Sawayn,feliz,sacando,2.9621904146E8,N,1.039059710102E10,10
+Mitchel Sawayn,feliz,depositando,2.0605356334E8,N,1.059665066436E10,10
+Rolf Windler,feliz,sacando,5.4007689286E8,N,1.00565737715E10,10
+Rolf Windler,feliz,depositando,2.3202065611E8,N,1.028859442761E10,10
+Mr. Huong O'Hara,feliz,sacando,8.1300156694E8,N,9.47559286067E9,10
+Mr. Huong O'Hara,feliz,depositando,4.6382387109E8,N,9.93941673176E9,10
+Shawnda Lynch Sr.,feliz,sacando,1.13325126657E9,N,8.80616546519E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.70019638516E9,N,1.050636185035E10,10
+Cassi Waters,feliz,sacando,9.2248762782E8,N,9.58387422253E9,10
+Cassi Waters,feliz,depositando,2.0155411267E8,N,9.7854283352E9,10
+Ada Ruecker,feliz,sacando,1.84171959727E9,N,7.94370873793E9,10
+Ada Ruecker,feliz,depositando,1.05732499981E9,N,9.00103373774E9,10
+Andrew McDermott,feliz,sacando,1.1288119743E9,N,7.87222176344E9,10
+Andrew McDermott,feliz,depositando,1.01099622497E9,N,8.88321798841E9,10
+Ada Ruecker,feliz,sacando,3.57050182E7,N,8.84751297021E9,10
+Ada Ruecker,feliz,depositando,1.23438493657E9,N,1.0081897906779999E10,10
+Cassi Waters,feliz,sacando,3.2955204984E8,N,9.752345856939999E9,10
+Cassi Waters,feliz,depositando,2.592976873E8,N,1.0011643544239998E10,10
+Shawnda Lynch Sr.,feliz,sacando,2.07919272495E9,N,7.932450819289998E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.01752736152E9,N,8.949978180809998E9,10
+Mr. Huong O'Hara,feliz,sacando,1.90796148371E9,N,7.0420166970999975E9,10
+Mr. Huong O'Hara,feliz,depositando,1.18934185911E9,N,8.231358556209997E9,10
+Rolf Windler,feliz,sacando,1.2378340848E9,N,6.993524471409997E9,10
+Rolf Windler,feliz,depositando,1.63281894278E9,N,8.626343414189997E9,10
+Mitchel Sawayn,feliz,sacando,3.2052420354E8,N,8.305819210649997E9,10
+Mitchel Sawayn,feliz,depositando,1.97602513672E9,N,1.0281844347369997E10,10
+Rachelle Kris,feliz,sacando,2.3679987044E8,N,1.0045044476929996E10,10
+Rachelle Kris,feliz,depositando,1.11798311335E9,N,1.1163027590279997E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.19798836101E9,N,9.965039229269997E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.44770906903E9,N,1.1412748298299997E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.24151524426E9,N,1.0171233054039997E10,10
+Annemarie Weissnat DDS,feliz,depositando,2.08884113389E9,N,1.2260074187929996E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.02498505602E9,N,1.1235089131909996E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.16588102707E9,N,1.2400970158979996E10,10
+Rachelle Kris,feliz,sacando,1.66746646816E9,N,1.0733503690819996E10,10
+Rachelle Kris,feliz,depositando,4.4680474428E8,N,1.1180308435099997E10,10
+Mitchel Sawayn,feliz,sacando,9.558683372E7,N,1.1084721601379997E10,10
+Mitchel Sawayn,feliz,depositando,3.1656176761E8,N,1.1401283368989998E10,10
+Rolf Windler,feliz,sacando,1.28395182663E9,N,1.0117331542359997E10,10
+Rolf Windler,feliz,depositando,8.3472969307E8,N,1.0952061235429996E10,10
+Mr. Huong O'Hara,feliz,sacando,5.0139224092E8,N,1.0450668994509996E10,10
+Mr. Huong O'Hara,feliz,depositando,1.65255378076E9,N,1.2103222775269997E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.07684014226E9,N,1.1026382633009996E10,10
+Shawnda Lynch Sr.,feliz,depositando,3.7284700319E8,N,1.1399229636199997E10,10
+Cassi Waters,feliz,sacando,9.656593936E7,N,1.1302663696839996E10,10
+Cassi Waters,feliz,depositando,7.9949305414E8,N,1.2102156750979996E10,10
+Ada Ruecker,feliz,sacando,1.94890362107E9,N,1.0153253129909996E10,10
+Ada Ruecker,feliz,depositando,2.4255515355E8,N,1.0395808283459995E10,10
+Andrew McDermott,feliz,sacando,4.6976215457E8,N,9.926046128889996E9,10
+Andrew McDermott,feliz,depositando,1.64764818528E9,N,1.1573694314169996E10,10
+Ada Ruecker,feliz,sacando,7.1974125296E8,N,1.0853953061209995E10,10
+Ada Ruecker,feliz,depositando,1.58050643538E9,N,1.2434459496589996E10,10
+Cassi Waters,feliz,sacando,1.1758401335E9,N,1.1258619363089996E10,10
+Cassi Waters,feliz,depositando,1.05149189356E9,N,1.2310111256649996E10,10
+Shawnda Lynch Sr.,feliz,sacando,4.419843182E8,N,1.1868126938449995E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.1021501184E8,N,1.2078341950289995E10,10
+Mr. Huong O'Hara,feliz,sacando,1.52379091007E9,N,1.0554551040219995E10,10
+Mr. Huong O'Hara,feliz,depositando,6.1424308568E8,N,1.1168794125899996E10,10
+Rolf Windler,feliz,sacando,1.94273579574E9,N,9.226058330159996E9,10
+Rolf Windler,feliz,depositando,1.21475301434E9,N,1.0440811344499996E10,10
+Mitchel Sawayn,feliz,sacando,1.18363627611E9,N,9.257175068389996E9,10
+Mitchel Sawayn,feliz,depositando,1.49618066395E9,N,1.0753355732339996E10,10
+Rachelle Kris,feliz,sacando,2.06100530834E9,N,8.692350423999996E9,10
+Rachelle Kris,feliz,depositando,2.00192010852E9,N,1.0694270532519997E10,10
+Ms. Kenneth Mosciski,feliz,sacando,8.1598440606E8,N,9.878286126459997E9,10
+Ms. Kenneth Mosciski,feliz,depositando,5.1066904953E8,N,1.0388955175989998E10,10
+Annemarie Weissnat DDS,feliz,sacando,6.7544583974E8,N,9.713509336249998E9,10
+Annemarie Weissnat DDS,feliz,depositando,7.9721417173E8,N,1.0510723507979998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.34154346493E9,N,9.169180043049997E9,10
+Ms. Kenneth Mosciski,feliz,depositando,7.865206095E8,N,9.955700652549997E9,10
+Rachelle Kris,feliz,sacando,1.8187360975E9,N,8.136964555049997E9,10
+Rachelle Kris,feliz,depositando,1.18389855098E9,N,9.320863106029997E9,10
+Mitchel Sawayn,feliz,sacando,1.40462777984E9,N,7.916235326189997E9,10
+Mitchel Sawayn,feliz,depositando,1.53491541702E9,N,9.451150743209997E9,10
+Rolf Windler,feliz,sacando,8.6689468701E8,N,8.584256056199997E9,10
+Rolf Windler,feliz,depositando,6.8414920232E8,N,9.268405258519997E9,10
+Mr. Huong O'Hara,feliz,sacando,1.07199396841E9,N,8.196411290109997E9,10
+Mr. Huong O'Hara,feliz,depositando,2.1891745737E8,N,8.415328747479997E9,10
+Shawnda Lynch Sr.,feliz,sacando,5.0197366896E8,N,7.913355078519997E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.51068809359E9,N,9.424043172109997E9,10
+Cassi Waters,feliz,sacando,1.98093222847E9,N,7.443110943639997E9,10
+Cassi Waters,feliz,depositando,1.26114120746E9,N,8.704252151099997E9,10
+Ada Ruecker,feliz,sacando,4.4636467515E8,N,8.257887475949997E9,10
+Ada Ruecker,feliz,depositando,1.27581793184E9,N,9.533705407789997E9,10
+Andrew McDermott,feliz,sacando,1.45485619727E9,N,8.078849210519997E9,10
+Andrew McDermott,feliz,depositando,5.8456993924E8,N,8.663419149759996E9,10
+Ada Ruecker,feliz,sacando,1.4925312525E9,N,7.170887897259996E9,10
+Ada Ruecker,feliz,depositando,8.1821108034E8,N,7.989098977599997E9,10
+Cassi Waters,feliz,sacando,8.1754778744E8,N,7.171551190159996E9,10
+Cassi Waters,feliz,depositando,5.45705017E8,N,7.717256207159996E9,10
+Shawnda Lynch Sr.,feliz,sacando,4.442483135E8,N,7.273007893659996E9,10
+Shawnda Lynch Sr.,feliz,depositando,2.09812554174E9,N,9.371133435399996E9,10
+Mr. Huong O'Hara,feliz,sacando,4.3503131493E8,N,8.936102120469995E9,10
+Mr. Huong O'Hara,feliz,depositando,1.71229275997E9,N,1.0648394880439995E10,10
+Rolf Windler,feliz,sacando,6.4958427378E8,N,9.998810606659994E9,10
+Rolf Windler,feliz,depositando,1.25231207345E9,N,1.1251122680109995E10,10
+Mitchel Sawayn,feliz,sacando,2.0940572433E8,N,1.1041716955779995E10,10
+Mitchel Sawayn,feliz,depositando,1.26589451482E9,N,1.2307611470599995E10,10
+Rachelle Kris,feliz,sacando,9.0869644857E8,N,1.1398915022029995E10,10
+Rachelle Kris,feliz,depositando,1.71558341586E9,N,1.3114498437889996E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.16446013814E9,N,1.1950038299749996E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.87114588638E9,N,1.3821184186129997E10,10
+Annemarie Weissnat DDS,feliz,sacando,2.05503910666E9,N,1.1766145079469997E10,10
+Annemarie Weissnat DDS,feliz,depositando,2.09302699746E9,N,1.3859172076929996E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.28012231783E9,N,1.2579049759099997E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.09605939099E9,N,1.3675109150089996E10,10
+Rachelle Kris,feliz,sacando,1.60904896505E9,N,1.2066060185039997E10,10
+Rachelle Kris,feliz,depositando,2.12182743809E9,N,1.4187887623129997E10,10
+Mitchel Sawayn,feliz,sacando,2.7561143895E8,N,1.3912276184179996E10,10
+Mitchel Sawayn,feliz,depositando,3.41740757E7,N,1.3946450259879997E10,10
+Rolf Windler,feliz,sacando,9.800196214E7,N,1.3848448297739998E10,10
+Rolf Windler,feliz,depositando,4.8232416365E8,N,1.4330772461389997E10,10
+Mr. Huong O'Hara,feliz,sacando,9.1072418668E8,N,1.3420048274709997E10,10
+Mr. Huong O'Hara,feliz,depositando,1.71612898203E9,N,1.5136177256739998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.1486066202E8,N,1.5021316594719997E10,10
+Shawnda Lynch Sr.,feliz,depositando,5.0428861926E8,N,1.5525605213979998E10,10
+Cassi Waters,feliz,sacando,2.876280215E7,N,1.5496842411829998E10,10
+Cassi Waters,feliz,depositando,1.41616449224E9,N,1.6913006904069998E10,10
+Ada Ruecker,feliz,sacando,1.55403453833E9,N,1.5358972365739998E10,10
+Ada Ruecker,feliz,depositando,1.74991013448E9,N,1.7108882500219997E10,10
+Andrew McDermott,feliz,sacando,1.45362386866E9,N,1.5655258631559998E10,10
+Andrew McDermott,feliz,depositando,4.9509925372E8,N,1.6150357885279997E10,10
+Ada Ruecker,feliz,sacando,3.1618192078E8,N,1.5834175964499996E10,10
+Ada Ruecker,feliz,depositando,7.8300361756E8,N,1.6617179582059996E10,10
+Cassi Waters,feliz,sacando,5.1689292828E8,N,1.6100286653779995E10,10
+Cassi Waters,feliz,depositando,2.2414114133E8,N,1.6324427795109995E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.81713917364E9,N,1.4507288621469995E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.07957221847E9,N,1.6586860839939995E10,10
+Mr. Huong O'Hara,feliz,sacando,3.3209007643E8,N,1.6254770763509995E10,10
+Mr. Huong O'Hara,feliz,depositando,1.5044531213E9,N,1.7759223884809994E10,10
+Rolf Windler,feliz,sacando,6.6411165512E8,N,1.7095112229689993E10,10
+Rolf Windler,feliz,depositando,1.19978198666E9,N,1.8294894216349995E10,10
+Mitchel Sawayn,feliz,sacando,4.7133839782E8,N,1.7823555818529995E10,10
+Mitchel Sawayn,feliz,depositando,3.0811409434E8,N,1.8131669912869995E10,10
+Rachelle Kris,feliz,sacando,1.7012103518E9,N,1.6430459561069996E10,10
+Rachelle Kris,feliz,depositando,2.8358991405E8,N,1.6714049475119995E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.28877224488E9,N,1.5425277230239994E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.42867369213E9,N,1.6853950922369995E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.83022019491E9,N,1.5023730727459995E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.24796397939E9,N,1.6271694706849995E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.6516941895E9,N,1.4620000517349995E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.54627093598E9,N,1.6166271453329994E10,10
+Rachelle Kris,feliz,sacando,1.2030331785E8,N,1.6045968135479994E10,10
+Rachelle Kris,feliz,depositando,1.77777759299E9,N,1.7823745728469994E10,10
+Mitchel Sawayn,feliz,sacando,1.9630198623E9,N,1.5860725866169994E10,10
+Mitchel Sawayn,feliz,depositando,1.6569872681E9,N,1.7517713134269993E10,10
+Rolf Windler,feliz,sacando,6.5434432344E8,N,1.6863368810829992E10,10
+Rolf Windler,feliz,depositando,1.23678228475E9,N,1.8100151095579994E10,10
+Mr. Huong O'Hara,feliz,sacando,1.54456211915E9,N,1.6555588976429995E10,10
+Mr. Huong O'Hara,feliz,depositando,4.2710314273E8,N,1.6982692119159994E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.66502787958E9,N,1.5317664239579994E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.32889353438E9,N,1.6646557773959995E10,10
+Cassi Waters,feliz,sacando,1.223029067E9,N,1.5423528706959995E10,10
+Cassi Waters,feliz,depositando,1.01667665662E9,N,1.6440205363579996E10,10
+Ada Ruecker,feliz,sacando,2.00191177274E9,N,1.4438293590839996E10,10
+Ada Ruecker,feliz,depositando,1.28235878686E9,N,1.5720652377699997E10,10
+Andrew McDermott,feliz,sacando,2.07750261084E9,N,1.3643149766859997E10,10
+Andrew McDermott,feliz,depositando,6.4853481395E8,N,1.4291684580809998E10,10
+Ada Ruecker,feliz,sacando,1.75542514197E9,N,1.2536259438839998E10,10
+Ada Ruecker,feliz,depositando,7.0840224948E8,N,1.3244661688319998E10,10
+Cassi Waters,feliz,sacando,3.1025112824E8,N,1.2934410560079998E10,10
+Cassi Waters,feliz,depositando,1.133408632E9,N,1.4067819192079998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.68782666423E9,N,1.2379992527849998E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.850520463E7,N,1.2408497732479998E10,10
+Mr. Huong O'Hara,feliz,sacando,7.2626129239E8,N,1.1682236440089998E10,10
+Mr. Huong O'Hara,feliz,depositando,1.3793313801E8,N,1.1820169578099998E10,10
+Rolf Windler,feliz,sacando,1.83574443677E9,N,9.984425141329998E9,10
+Rolf Windler,feliz,depositando,1.53613325857E9,N,1.1520558399899998E10,10
+Mitchel Sawayn,feliz,sacando,8.9338436063E8,N,1.0627174039269999E10,10
+Mitchel Sawayn,feliz,depositando,1.04666099724E9,N,1.1673835036509998E10,10
+Rachelle Kris,feliz,sacando,6.2193788389E8,N,1.1051897152619999E10,10
+Rachelle Kris,feliz,depositando,2.12785020736E9,N,1.317974735998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.72095730884E9,N,1.145879005114E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.3446311957E9,N,1.280342124684E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.74874414475E9,N,1.105467710209E10,10
+Annemarie Weissnat DDS,feliz,depositando,6.716937914E8,N,1.172637089349E10,10
+Ms. Kenneth Mosciski,feliz,sacando,9.2300850867E8,N,1.080336238482E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.3316315153E8,N,1.093652553635E10,10
+Rachelle Kris,feliz,sacando,1.2840492712E9,N,9.65247626515E9,10
+Rachelle Kris,feliz,depositando,1.86507974831E9,N,1.151755601346E10,10
+Mitchel Sawayn,feliz,sacando,1.89965000427E9,N,9.617906009189999E9,10
+Mitchel Sawayn,feliz,depositando,4.8046108057E8,N,1.0098367089759998E10,10
+Rolf Windler,feliz,sacando,1.713940539E8,N,9.926973035859999E9,10
+Rolf Windler,feliz,depositando,1.38319125083E9,N,1.1310164286689999E10,10
+Mr. Huong O'Hara,feliz,sacando,1.52559333051E9,N,9.784570956179998E9,10
+Mr. Huong O'Hara,feliz,depositando,2.01320569995E9,N,1.179777665613E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.49020802498E9,N,1.030756863115E10,10
+Shawnda Lynch Sr.,feliz,depositando,4.3015353607E8,N,1.073772216722E10,10
+Cassi Waters,feliz,sacando,1.30168434909E9,N,9.43603781813E9,10
+Cassi Waters,feliz,depositando,8.5314040886E8,N,1.028917822699E10,10
+Ada Ruecker,feliz,sacando,9.2086619108E8,N,9.36831203591E9,10
+Ada Ruecker,feliz,depositando,6.1531359974E8,N,9.98362563565E9,10
+Andrew McDermott,feliz,sacando,1.01950222397E9,N,8.96412341168E9,10
+Andrew McDermott,feliz,depositando,1.48704793938E9,N,1.0451171351060001E10,10
+Ada Ruecker,feliz,sacando,8.5034788627E8,N,9.60082346479E9,10
+Ada Ruecker,feliz,depositando,8.9609359891E8,N,1.04969170637E10,10
+Cassi Waters,feliz,sacando,4.9357041927E8,N,1.000334664443E10,10
+Cassi Waters,feliz,depositando,1.6068310419E9,N,1.161017768633E10,10
+Shawnda Lynch Sr.,feliz,sacando,4.1010966355E8,N,1.120006802278E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.05902938201E9,N,1.325909740479E10,10
+Mr. Huong O'Hara,feliz,sacando,1.2784489845E9,N,1.198064842029E10,10
+Mr. Huong O'Hara,feliz,depositando,1.7333276985E8,N,1.2153981190140001E10,10
+Rolf Windler,feliz,sacando,1.97401772152E9,N,1.017996346862E10,10
+Rolf Windler,feliz,depositando,1.5856345928E9,N,1.176559806142E10,10
+Mitchel Sawayn,feliz,sacando,8.011204732E7,N,1.16854860141E10,10
+Mitchel Sawayn,feliz,depositando,6.5350304656E8,N,1.233898906066E10,10
+Rachelle Kris,feliz,sacando,1.39945523859E9,N,1.093953382207E10,10
+Rachelle Kris,feliz,depositando,1.09747679824E9,N,1.203701062031E10,10
+Ms. Kenneth Mosciski,feliz,sacando,4.6433984766E8,N,1.157267077265E10,10
+Ms. Kenneth Mosciski,feliz,depositando,8.5976930844E8,N,1.243244008109E10,10
+Annemarie Weissnat DDS,feliz,sacando,6.2069579117E8,N,1.181174428992E10,10
+Annemarie Weissnat DDS,feliz,depositando,4.3634860114E8,N,1.224809289106E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.96468018743E9,N,1.028341270363E10,10
+Ms. Kenneth Mosciski,feliz,depositando,7.69585355E7,N,1.036037123913E10,10
+Rachelle Kris,feliz,sacando,1.76738904598E9,N,8.59298219315E9,10
+Rachelle Kris,feliz,depositando,5.145353459E7,N,8.64443572774E9,10
+Mitchel Sawayn,feliz,sacando,4.1571728319E8,N,8.22871844455E9,10
+Mitchel Sawayn,feliz,depositando,1.31587791183E9,N,9.544596356380001E9,10
+Rolf Windler,feliz,sacando,7.541222101E8,N,8.79047414628E9,10
+Rolf Windler,feliz,depositando,5.9469487241E8,N,9.38516901869E9,10
+Mr. Huong O'Hara,feliz,sacando,1.05100495855E9,N,8.33416406014E9,10
+Mr. Huong O'Hara,feliz,depositando,9.7418636109E8,N,9.30835042123E9,10
+Shawnda Lynch Sr.,feliz,sacando,7.9849243345E8,N,8.50985798778E9,10
+Shawnda Lynch Sr.,feliz,depositando,2.10013981539E9,N,1.060999780317E10,10
+Cassi Waters,feliz,sacando,5.2280077941E8,N,1.008719702376E10,10
+Cassi Waters,feliz,depositando,1.81474591658E9,N,1.190194294034E10,10
+Ada Ruecker,feliz,sacando,1.39178906825E9,N,1.051015387209E10,10
+Ada Ruecker,feliz,depositando,7.943710384E8,N,1.130452491049E10,10
+Andrew McDermott,feliz,sacando,1.43726315282E9,N,9.86726175767E9,10
+Andrew McDermott,feliz,depositando,1.5973018439E9,N,1.146456360157E10,10
+Ada Ruecker,feliz,sacando,6.8383409735E8,N,1.078072950422E10,10
+Ada Ruecker,feliz,depositando,5.2080591828E8,N,1.13015354225E10,10
+Cassi Waters,feliz,sacando,1.63088417981E9,N,9.67065124269E9,10
+Cassi Waters,feliz,depositando,1.98637033969E9,N,1.1657021582380001E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.85882469233E9,N,9.798196890050001E9,10
+Shawnda Lynch Sr.,feliz,depositando,1.6195652922E9,N,1.1417762182250002E10,10
+Mr. Huong O'Hara,feliz,sacando,1.20449593966E9,N,1.0213266242590002E10,10
+Mr. Huong O'Hara,feliz,depositando,8.9240621018E8,N,1.1105672452770002E10,10
+Rolf Windler,feliz,sacando,1.04979835593E9,N,1.0055874096840002E10,10
+Rolf Windler,feliz,depositando,1.38748019766E9,N,1.1443354294500002E10,10
+Mitchel Sawayn,feliz,sacando,3.659657501E7,N,1.1406757719490002E10,10
+Mitchel Sawayn,feliz,depositando,7.0388516431E8,N,1.2110642883800001E10,10
+Rachelle Kris,feliz,sacando,2.7565111071E8,N,1.1834991773090002E10,10
+Rachelle Kris,feliz,depositando,1.80863352049E9,N,1.3643625293580002E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.10366213765E9,N,1.2539963155930002E10,10
+Ms. Kenneth Mosciski,feliz,depositando,2.03329584232E9,N,1.4573258998250002E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.0084885535E8,N,1.4472410142900002E10,10
+Annemarie Weissnat DDS,feliz,depositando,9.5693718472E8,N,1.542934732762E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.61845549386E9,N,1.381089183376E10,10
+Ms. Kenneth Mosciski,feliz,depositando,9.6962860925E8,N,1.478052044301E10,10
+Rachelle Kris,feliz,sacando,1.17028735326E9,N,1.361023308975E10,10
+Rachelle Kris,feliz,depositando,1.94670543048E9,N,1.555693852023E10,10
+Mitchel Sawayn,feliz,sacando,1.52918188093E9,N,1.40277566393E10,10
+Mitchel Sawayn,feliz,depositando,1.11845231377E9,N,1.514620895307E10,10
+Rolf Windler,feliz,sacando,1.71364855354E9,N,1.3432560399529999E10,10
+Rolf Windler,feliz,depositando,4.3269279961E8,N,1.386525319914E10,10
+Mr. Huong O'Hara,feliz,sacando,2.11185490297E9,N,1.175339829617E10,10
+Mr. Huong O'Hara,feliz,depositando,2.08282721857E9,N,1.383622551474E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.90135899764E9,N,1.19348665171E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.509428277E7,N,1.194996079987E10,10
+Cassi Waters,feliz,sacando,1.43490155095E9,N,1.051505924892E10,10
+Cassi Waters,feliz,depositando,4.3658776959E8,N,1.095164701851E10,10
+Ada Ruecker,feliz,sacando,5.222791841E8,N,1.042936783441E10,10
+Ada Ruecker,feliz,depositando,1.56199375806E9,N,1.199136159247E10,10
+Andrew McDermott,feliz,sacando,1.18586748243E9,N,1.0805494110039999E10,10
+Andrew McDermott,feliz,depositando,6.6166017704E8,N,1.1467154287079998E10,10
+Ada Ruecker,feliz,sacando,5.4399495492E8,N,1.0923159332159998E10,10
+Ada Ruecker,feliz,depositando,7.4019770075E8,N,1.1663357032909998E10,10
+Cassi Waters,feliz,sacando,3.7947444465E8,N,1.1283882588259998E10,10
+Cassi Waters,feliz,depositando,1.29943492321E9,N,1.2583317511469997E10,10
+Shawnda Lynch Sr.,feliz,sacando,5.605171975E7,N,1.2527265791719997E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.06463339289E9,N,1.3591899184609997E10,10
+Mr. Huong O'Hara,feliz,sacando,1.08397517482E9,N,1.2507924009789997E10,10
+Mr. Huong O'Hara,feliz,depositando,1.45398983763E9,N,1.3961913847419998E10,10
+Rolf Windler,feliz,sacando,1.9677041242E8,N,1.3765143434999998E10,10
+Rolf Windler,feliz,depositando,5.3446417725E8,N,1.4299607612249998E10,10
+Mitchel Sawayn,feliz,sacando,1.0782296827E8,N,1.4191784643979998E10,10
+Mitchel Sawayn,feliz,depositando,7.8879471867E8,N,1.4980579362649998E10,10
+Rachelle Kris,feliz,sacando,9.815146765E8,N,1.3999064686149998E10,10
+Rachelle Kris,feliz,depositando,1.09977920087E9,N,1.5098843887019997E10,10
+Ms. Kenneth Mosciski,feliz,sacando,4.3358611343E8,N,1.4665257773589996E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.5553783122E9,N,1.6220636085789997E10,10
+Annemarie Weissnat DDS,feliz,sacando,4.7084921399E8,N,1.5749786871799997E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.34060525897E9,N,1.7090392130769997E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.09639359527E9,N,1.4993998535499996E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.8995703467E9,N,1.6893568882199997E10,10
+Rachelle Kris,feliz,sacando,5.3202830122E8,N,1.6361540580979998E10,10
+Rachelle Kris,feliz,depositando,2.6305325463E8,N,1.6624593835609997E10,10
+Mitchel Sawayn,feliz,sacando,8.247774654E8,N,1.5799816370209997E10,10
+Mitchel Sawayn,feliz,depositando,1.39091225129E9,N,1.7190728621499996E10,10
+Rolf Windler,feliz,sacando,1.71084993839E9,N,1.5479878683109997E10,10
+Rolf Windler,feliz,depositando,6.9806058251E8,N,1.6177939265619997E10,10
+Mr. Huong O'Hara,feliz,sacando,1.30451208167E9,N,1.4873427183949997E10,10
+Mr. Huong O'Hara,feliz,depositando,1.06881104262E9,N,1.5942238226569998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.32304155692E9,N,1.4619196669649998E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.71489895793E9,N,1.6334095627579998E10,10
+Cassi Waters,feliz,sacando,5.8520543292E8,N,1.5748890194659998E10,10
+Cassi Waters,feliz,depositando,1.89412561324E9,N,1.7643015807899998E10,10
+Ada Ruecker,feliz,sacando,1.65245890024E9,N,1.5990556907659998E10,10
+Ada Ruecker,feliz,depositando,3.4742805884E8,N,1.6337984966499998E10,10
+Andrew McDermott,feliz,sacando,4.0705835377E8,N,1.5930926612729998E10,10
+Andrew McDermott,feliz,depositando,1.48494543993E9,N,1.7415872052659996E10,10
+Ada Ruecker,feliz,sacando,2.14641578166E9,N,1.5269456270999996E10,10
+Ada Ruecker,feliz,depositando,1.51963169961E9,N,1.6789087970609997E10,10
+Cassi Waters,feliz,sacando,1.88065766848E9,N,1.4908430302129997E10,10
+Cassi Waters,feliz,depositando,6.4296709284E8,N,1.5551397394969997E10,10
+Shawnda Lynch Sr.,feliz,sacando,3.3437036515E8,N,1.5217027029819998E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.29598292565E9,N,1.6513009955469997E10,10
+Mr. Huong O'Hara,feliz,sacando,1.06147630684E9,N,1.5451533648629997E10,10
+Mr. Huong O'Hara,feliz,depositando,1.76766740177E9,N,1.7219201050399998E10,10
+Rolf Windler,feliz,sacando,1.00028344362E9,N,1.6218917606779997E10,10
+Rolf Windler,feliz,depositando,1.2187413732E9,N,1.7437658979979996E10,10
+Mitchel Sawayn,feliz,sacando,8.4467273144E8,N,1.6592986248539995E10,10
+Mitchel Sawayn,feliz,depositando,1.51385908684E9,N,1.8106845335379993E10,10
+Rachelle Kris,feliz,sacando,7.9353105999E8,N,1.731331427538999E10,10
+Rachelle Kris,feliz,depositando,1.27221843694E9,N,1.858553271232999E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.10296474857E9,N,1.648256796375999E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.17699341805E9,N,1.765956138180999E10,10
+Annemarie Weissnat DDS,feliz,sacando,3.3488433873E8,N,1.732467704307999E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.54580312317E9,N,1.8870480166249992E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.300179052E7,N,1.8857478375729992E10,10
+Ms. Kenneth Mosciski,feliz,depositando,2.14088643881E9,N,2.0998364814539993E10,10
+Rachelle Kris,feliz,sacando,5.9852474668E8,N,2.0399840067859993E10,10
+Rachelle Kris,feliz,depositando,7.0003312818E8,N,2.1099873196039993E10,10
+Mitchel Sawayn,feliz,sacando,9.160622572E8,N,2.0183810938839993E10,10
+Mitchel Sawayn,feliz,depositando,5.3387589429E8,N,2.0717686833129993E10,10
+Rolf Windler,feliz,sacando,1.97422515553E9,N,1.8743461677599995E10,10
+Rolf Windler,feliz,depositando,6.3770355292E8,N,1.9381165230519993E10,10
+Mr. Huong O'Hara,feliz,sacando,2.06870329472E9,N,1.731246193579999E10,10
+Mr. Huong O'Hara,feliz,depositando,5.7490023258E8,N,1.7887362168379993E10,10
+Shawnda Lynch Sr.,feliz,sacando,3.4856236578E8,N,1.7538799802599995E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.15216273111E9,N,1.8690962533709995E10,10
+Cassi Waters,feliz,sacando,7.6101415409E8,N,1.7929948379619995E10,10
+Cassi Waters,feliz,depositando,1.12664892907E9,N,1.9056597308689995E10,10
+Ada Ruecker,feliz,sacando,9.9237854824E8,N,1.8064218760449993E10,10
+Ada Ruecker,feliz,depositando,1.84685636557E9,N,1.9911075126019993E10,10
+Andrew McDermott,feliz,sacando,3.394018708E7,N,1.987713493893999E10,10
+Andrew McDermott,feliz,depositando,4.5556561808E8,N,2.0332700557019993E10,10
+Ada Ruecker,feliz,sacando,9.1237287588E8,N,1.942032768113999E10,10
+Ada Ruecker,feliz,depositando,4.9487660924E8,N,1.9915204290379993E10,10
+Cassi Waters,feliz,sacando,2.14253733208E9,N,1.7772666958299995E10,10
+Cassi Waters,feliz,depositando,1.26107620589E9,N,1.9033743164189995E10,10
+Shawnda Lynch Sr.,feliz,sacando,2.1710553654E8,N,1.8816637627649994E10,10
+Shawnda Lynch Sr.,feliz,depositando,7.9250459253E8,N,1.9609142220179993E10,10
+Mr. Huong O'Hara,feliz,sacando,1.60776034679E9,N,1.800138187338999E10,10
+Mr. Huong O'Hara,feliz,depositando,1.39202163798E9,N,1.939340351136999E10,10
+Rolf Windler,feliz,sacando,1.1626951081E8,N,1.927713400055999E10,10
+Rolf Windler,feliz,depositando,1.683943267E8,N,1.944552832725999E10,10
+Mitchel Sawayn,feliz,sacando,1.52459499174E9,N,1.792093333551999E10,10
+Mitchel Sawayn,feliz,depositando,8.8893449641E8,N,1.880986783192999E10,10
+Rachelle Kris,feliz,sacando,1.72765104663E9,N,1.7082216785299988E10,10
+Rachelle Kris,feliz,depositando,1.77224551039E9,N,1.8854462295689987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,8.8053871956E8,N,1.7973923576129986E10,10
+Ms. Kenneth Mosciski,feliz,depositando,4.874737981E7,N,1.8022670955939987E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.10460474069E9,N,1.6918066215249987E10,10
+Annemarie Weissnat DDS,feliz,depositando,5.9996945967E8,N,1.7518035674919987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,6.7928429775E8,N,1.6838751377169987E10,10
+Ms. Kenneth Mosciski,feliz,depositando,8.0359330917E8,N,1.7642344686339985E10,10
+Rachelle Kris,feliz,sacando,5.186314249E8,N,1.7123713261439985E10,10
+Rachelle Kris,feliz,depositando,2.7304190273E8,N,1.7396755164169987E10,10
+Mitchel Sawayn,feliz,sacando,1.8189720262E9,N,1.5577783137969986E10,10
+Mitchel Sawayn,feliz,depositando,1.25654573888E9,N,1.6834328876849987E10,10
+Rolf Windler,feliz,sacando,6.6356310682E8,N,1.6170765770029987E10,10
+Rolf Windler,feliz,depositando,1.55465393535E9,N,1.7725419705379986E10,10
+Mr. Huong O'Hara,feliz,sacando,1.45796151574E9,N,1.6267458189639986E10,10
+Mr. Huong O'Hara,feliz,depositando,7.1217764771E8,N,1.6979635837349987E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.18058641738E9,N,1.5799049419969986E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.15613077771E9,N,1.6955180197679985E10,10
+Cassi Waters,feliz,sacando,1.02040276205E9,N,1.5934777435629986E10,10
+Cassi Waters,feliz,depositando,9.6928074613E8,N,1.6904058181759985E10,10
+Ada Ruecker,feliz,sacando,1.75302394518E9,N,1.5151034236579985E10,10
+Ada Ruecker,feliz,depositando,4.662982201E8,N,1.5617332456679985E10,10
+Andrew McDermott,feliz,sacando,1.47207063133E9,N,1.4145261825349985E10,10
+Andrew McDermott,feliz,depositando,2.00911969165E9,N,1.6154381516999985E10,10
+Ada Ruecker,feliz,sacando,1.46063376124E9,N,1.4693747755759985E10,10
+Ada Ruecker,feliz,depositando,1.35613290147E9,N,1.6049880657229984E10,10
+Cassi Waters,feliz,sacando,6.7654596097E8,N,1.5373334696259985E10,10
+Cassi Waters,feliz,depositando,1.38091943949E9,N,1.6754254135749985E10,10
+Shawnda Lynch Sr.,feliz,sacando,7.5243524855E8,N,1.6001818887199986E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.03222456504E9,N,1.8034043452239986E10,10
+Mr. Huong O'Hara,feliz,sacando,3.0281701477E8,N,1.7731226437469986E10,10
+Mr. Huong O'Hara,feliz,depositando,1.69601364126E9,N,1.9427240078729984E10,10
+Rolf Windler,feliz,sacando,1.13335512308E9,N,1.8293884955649986E10,10
+Rolf Windler,feliz,depositando,1.76261751764E9,N,2.0056502473289986E10,10
+Mitchel Sawayn,feliz,sacando,1.0982704787E9,N,1.8958231994589985E10,10
+Mitchel Sawayn,feliz,depositando,6.9246553557E8,N,1.9650697530159985E10,10
+Rachelle Kris,feliz,sacando,1.6782802181E8,N,1.9482869508349983E10,10
+Rachelle Kris,feliz,depositando,1.22081594725E9,N,2.0703685455599983E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.508783973E8,N,2.0552807058299984E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.36695355988E9,N,2.1919760618179985E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.18159907349E9,N,2.0738161544689983E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.23248675555E9,N,2.1970648300239983E10,10
+Ms. Kenneth Mosciski,feliz,sacando,4.313087608E8,N,2.1539339539439983E10,10
+Ms. Kenneth Mosciski,feliz,depositando,4.288744373E7,N,2.1582226983169983E10,10
+Rachelle Kris,feliz,sacando,3.0333623302E8,N,2.1278890750149982E10,10
+Rachelle Kris,feliz,depositando,1.28944729057E9,N,2.2568338040719982E10,10
+Mitchel Sawayn,feliz,sacando,1.22304190102E9,N,2.134529613969998E10,10
+Mitchel Sawayn,feliz,depositando,1.8488648898E9,N,2.319416102949998E10,10
+Rolf Windler,feliz,sacando,3.6169891618E8,N,2.283246211331998E10,10
+Rolf Windler,feliz,depositando,1.48233589436E9,N,2.431479800767998E10,10
+Mr. Huong O'Hara,feliz,sacando,1.96845311079E9,N,2.234634489688998E10,10
+Mr. Huong O'Hara,feliz,depositando,2.9713782932E8,N,2.264348272620998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.4026009927E9,N,2.124088173350998E10,10
+Shawnda Lynch Sr.,feliz,depositando,7.0684568634E8,N,2.194772741984998E10,10
+Cassi Waters,feliz,sacando,1.56114065388E9,N,2.038658676596998E10,10
+Cassi Waters,feliz,depositando,7.1436313057E8,N,2.1100949896539978E10,10
+Ada Ruecker,feliz,sacando,1.70806347664E9,N,1.939288641989998E10,10
+Ada Ruecker,feliz,depositando,5.215962234E7,N,1.944504604223998E10,10
+Andrew McDermott,feliz,sacando,1.51512361268E9,N,1.792992242955998E10,10
+Andrew McDermott,feliz,depositando,9.8247672269E8,N,1.8912399152249977E10,10
+Ada Ruecker,feliz,sacando,9.7664731261E8,N,1.7935751839639977E10,10
+Ada Ruecker,feliz,depositando,5.5624199631E8,N,1.8491993835949978E10,10
+Cassi Waters,feliz,sacando,3.625712584E8,N,1.8129422577549976E10,10
+Cassi Waters,feliz,depositando,1.35598683383E9,N,1.9485409411379974E10,10
+Shawnda Lynch Sr.,feliz,sacando,9.021796714E7,N,1.9395191444239975E10,10
+Shawnda Lynch Sr.,feliz,depositando,3.3851148108E8,N,1.9733702925319977E10,10
+Mr. Huong O'Hara,feliz,sacando,1.05356617581E9,N,1.8680136749509975E10,10
+Mr. Huong O'Hara,feliz,depositando,1.50450246674E9,N,2.0184639216249977E10,10
+Rolf Windler,feliz,sacando,1.6778678711E9,N,1.850677134514998E10,10
+Rolf Windler,feliz,depositando,1.72549096841E9,N,2.023226231355998E10,10
+Mitchel Sawayn,feliz,sacando,1.16848631646E9,N,1.906377599709998E10,10
+Mitchel Sawayn,feliz,depositando,1.08494185663E9,N,2.014871785372998E10,10
+Rachelle Kris,feliz,sacando,5.6697323242E8,N,1.9581744621309982E10,10
+Rachelle Kris,feliz,depositando,4.5115361561E8,N,2.0032898236919983E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.15292758664E9,N,1.8879970650279984E10,10
+Ms. Kenneth Mosciski,feliz,depositando,2.6567886884E8,N,1.9145649519119984E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.67411826581E9,N,1.7471531253309982E10,10
+Annemarie Weissnat DDS,feliz,depositando,2.07102817546E9,N,1.954255942876998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.08278567993E9,N,1.745977374883998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,3.287078726E7,N,1.749264453609998E10,10
+Rachelle Kris,feliz,sacando,1.41208988295E9,N,1.6080554653149979E10,10
+Rachelle Kris,feliz,depositando,3.266515865E7,N,1.6113219811799978E10,10
+Mitchel Sawayn,feliz,sacando,9.9825806188E8,N,1.511496174991998E10,10
+Mitchel Sawayn,feliz,depositando,4.1739907144E8,N,1.553236082135998E10,10
+Rolf Windler,feliz,sacando,5.23557031E8,N,1.500880379035998E10,10
+Rolf Windler,feliz,depositando,1.58138734317E9,N,1.659019113352998E10,10
+Mr. Huong O'Hara,feliz,sacando,1.66908569075E9,N,1.492110544277998E10,10
+Mr. Huong O'Hara,feliz,depositando,1.5672437199E8,N,1.507782981476998E10,10
+Shawnda Lynch Sr.,feliz,sacando,3.986737697E8,N,1.4679156045069979E10,10
+Shawnda Lynch Sr.,feliz,depositando,5.8670657552E8,N,1.526586262058998E10,10
+Cassi Waters,feliz,sacando,1.4440367668E8,N,1.5121458943909979E10,10
+Cassi Waters,feliz,depositando,1.98850932901E9,N,1.710996827291998E10,10
+Ada Ruecker,feliz,sacando,8.0262871077E8,N,1.6307339562149979E10,10
+Ada Ruecker,feliz,depositando,1.23608126602E9,N,1.754342082816998E10,10
+Andrew McDermott,feliz,sacando,1.46700272731E9,N,1.607641810085998E10,10
+Andrew McDermott,feliz,depositando,7.8482543852E8,N,1.686124353937998E10,10
+Ada Ruecker,feliz,sacando,1.48269628737E9,N,1.537854725200998E10,10
+Ada Ruecker,feliz,depositando,1.01261892713E9,N,1.6391166179139978E10,10
+Cassi Waters,feliz,sacando,1.98790377077E9,N,1.4403262408369978E10,10
+Cassi Waters,feliz,depositando,3.1486638624E8,N,1.4718128794609978E10,10
+Shawnda Lynch Sr.,feliz,sacando,3.344937017E7,N,1.4684679424439978E10,10
+Shawnda Lynch Sr.,feliz,depositando,3.8733162244E8,N,1.5072011046879978E10,10
+Mr. Huong O'Hara,feliz,sacando,1.39386909003E9,N,1.3678141956849977E10,10
+Mr. Huong O'Hara,feliz,depositando,3.7798049992E8,N,1.4056122456769978E10,10
+Rolf Windler,feliz,sacando,1.99718862799E9,N,1.2058933828779978E10,10
+Rolf Windler,feliz,depositando,1.12074045268E9,N,1.3179674281459978E10,10
+Mitchel Sawayn,feliz,sacando,2.154660205E8,N,1.2964208260959978E10,10
+Mitchel Sawayn,feliz,depositando,1.3105274907E9,N,1.4274735751659979E10,10
+Rachelle Kris,feliz,sacando,2.4548056673E8,N,1.402925518492998E10,10
+Rachelle Kris,feliz,depositando,1.01678529798E9,N,1.5046040482909979E10,10
+Ms. Kenneth Mosciski,feliz,sacando,5887846.81,N,1.504015263609998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,3.9790702273E8,N,1.5438059658829979E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.41640901508E9,N,1.4021650643749979E10,10
+Annemarie Weissnat DDS,feliz,depositando,7.0151122427E8,N,1.472316186801998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.33112465232E9,N,1.339203721569998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.18536105111E9,N,1.457739826680998E10,10
+Rachelle Kris,feliz,sacando,1.97252016221E9,N,1.260487810459998E10,10
+Rachelle Kris,feliz,depositando,1.15691053874E9,N,1.376178864333998E10,10
+Mitchel Sawayn,feliz,sacando,1.0409242452E8,N,1.3657696218819979E10,10
+Mitchel Sawayn,feliz,depositando,1.48601543436E9,N,1.514371165317998E10,10
+Rolf Windler,feliz,sacando,8.0373242941E8,N,1.433997922376998E10,10
+Rolf Windler,feliz,depositando,1.10824544093E9,N,1.544822466469998E10,10
+Mr. Huong O'Hara,feliz,sacando,9.4292764222E8,N,1.450529702247998E10,10
+Mr. Huong O'Hara,feliz,depositando,1.54554804447E9,N,1.605084506694998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.36369474614E9,N,1.468715032080998E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.08525214428E9,N,1.6772402465089981E10,10
+Cassi Waters,feliz,sacando,1.61671839555E9,N,1.5155684069539982E10,10
+Cassi Waters,feliz,depositando,1.41016689477E9,N,1.6565850964309982E10,10
+Ada Ruecker,feliz,sacando,1.1452802234E9,N,1.5420570740909983E10,10
+Ada Ruecker,feliz,depositando,1.88952076308E9,N,1.7310091503989983E10,10
+Andrew McDermott,feliz,sacando,4.5362855407E8,N,1.6856462949919983E10,10
+Andrew McDermott,feliz,depositando,1.56024028236E9,N,1.8416703232279984E10,10
+Ada Ruecker,feliz,sacando,1.60922190465E9,N,1.6807481327629984E10,10
+Ada Ruecker,feliz,depositando,6.5173921153E8,N,1.7459220539159985E10,10
+Cassi Waters,feliz,sacando,1.2990807577E8,N,1.7329312463389984E10,10
+Cassi Waters,feliz,depositando,2.04496530754E9,N,1.9374277770929985E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.33384915374E9,N,1.8040428617189983E10,10
+Shawnda Lynch Sr.,feliz,depositando,8.6368250027E8,N,1.8904111117459984E10,10
+Mr. Huong O'Hara,feliz,sacando,1.40062571661E9,N,1.7503485400849983E10,10
+Mr. Huong O'Hara,feliz,depositando,5.2295866733E8,N,1.8026444068179985E10,10
+Rolf Windler,feliz,sacando,1.40025188807E9,N,1.6626192180109985E10,10
+Rolf Windler,feliz,depositando,1.81242160063E9,N,1.8438613780739986E10,10
+Mitchel Sawayn,feliz,sacando,2.0147320469E9,N,1.6423881733839987E10,10
+Mitchel Sawayn,feliz,depositando,8.3761988776E8,N,1.7261501621599987E10,10
+Rachelle Kris,feliz,sacando,2.02780640511E9,N,1.5233695216489986E10,10
+Rachelle Kris,feliz,depositando,1.2934919659E8,N,1.5363044413079987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,5.7740971512E8,N,1.4785634697959986E10,10
+Ms. Kenneth Mosciski,feliz,depositando,9.2287861535E8,N,1.5708513313309986E10,10
+Annemarie Weissnat DDS,feliz,sacando,8.2915498804E8,N,1.4879358325269985E10,10
+Annemarie Weissnat DDS,feliz,depositando,3.0059379865E8,N,1.5179952123919985E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.8716283299E8,N,1.4992789290929985E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.92013539931E9,N,1.6912924690239985E10,10
+Rachelle Kris,feliz,sacando,2.00148369792E9,N,1.4911440992319984E10,10
+Rachelle Kris,feliz,depositando,1.9431128879E8,N,1.5105752281109985E10,10
+Mitchel Sawayn,feliz,sacando,1.28634942258E9,N,1.3819402858529985E10,10
+Mitchel Sawayn,feliz,depositando,1.19888327227E9,N,1.5018286130799986E10,10
+Rolf Windler,feliz,sacando,1.17904116569E9,N,1.3839244965109985E10,10
+Rolf Windler,feliz,depositando,2.9316880156E8,N,1.4132413766669985E10,10
+Mr. Huong O'Hara,feliz,sacando,1.30251375232E9,N,1.2829900014349985E10,10
+Mr. Huong O'Hara,feliz,depositando,4.5219983686E8,N,1.3282099851209986E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.8830481525E8,N,1.3093795035959986E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.02546512174E9,N,1.4119260157699986E10,10
+Cassi Waters,feliz,sacando,4.6944484203E8,N,1.3649815315669985E10,10
+Cassi Waters,feliz,depositando,1.82845542525E9,N,1.5478270740919985E10,10
+Ada Ruecker,feliz,sacando,1.90246842693E9,N,1.3575802313989985E10,10
+Ada Ruecker,feliz,depositando,1.9931356973E9,N,1.5568938011289984E10,10
+Andrew McDermott,feliz,sacando,4.8927136061E8,N,1.5079666650679983E10,10
+Andrew McDermott,feliz,depositando,5.5382972737E8,N,1.5633496378049984E10,10
+Ada Ruecker,feliz,sacando,1.57191848689E9,N,1.4061577891159985E10,10
+Ada Ruecker,feliz,depositando,1.61979823886E9,N,1.5681376130019985E10,10
+Cassi Waters,feliz,sacando,8.1498994755E8,N,1.4866386182469986E10,10
+Cassi Waters,feliz,depositando,5.2990662249E8,N,1.5396292804959986E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.78858036744E9,N,1.3607712437519985E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.48947702452E9,N,1.5097189462039986E10,10
+Mr. Huong O'Hara,feliz,sacando,7.9987147256E8,N,1.4297317989479986E10,10
+Mr. Huong O'Hara,feliz,depositando,1.99181238803E9,N,1.6289130377509987E10,10
+Rolf Windler,feliz,sacando,3.4259713121E8,N,1.5946533246299988E10,10
+Rolf Windler,feliz,depositando,1.17657845344E9,N,1.7123111699739988E10,10
+Mitchel Sawayn,feliz,sacando,1.80731684833E9,N,1.5315794851409988E10,10
+Mitchel Sawayn,feliz,depositando,1.36368749058E9,N,1.6679482341989988E10,10
+Rachelle Kris,feliz,sacando,1.35199291872E9,N,1.5327489423269989E10,10
+Rachelle Kris,feliz,depositando,1.1480322129E8,N,1.544229264455999E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.01518460589E9,N,1.342710803866999E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.89624521021E9,N,1.532335324887999E10,10
+Annemarie Weissnat DDS,feliz,sacando,2.0009212668E8,N,1.512326112219999E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.35452258828E9,N,1.647778371047999E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.656358441E7,N,1.645122012606999E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.26180914618E9,N,1.771302927224999E10,10
+Rachelle Kris,feliz,sacando,1.66327241997E9,N,1.604975685227999E10,10
+Rachelle Kris,feliz,depositando,1.25661478873E9,N,1.730637164100999E10,10
+Mitchel Sawayn,feliz,sacando,2.08443681745E9,N,1.522193482355999E10,10
+Mitchel Sawayn,feliz,depositando,1.66589317637E9,N,1.6887827999929989E10,10
+Rolf Windler,feliz,sacando,3.6258475004E8,N,1.6525243249889988E10,10
+Rolf Windler,feliz,depositando,1.4974359092E9,N,1.802267915908999E10,10
+Mr. Huong O'Hara,feliz,sacando,6.9110846283E8,N,1.7331570696259987E10,10
+Mr. Huong O'Hara,feliz,depositando,8.060858121E7,N,1.7412179277469986E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.60255319045E9,N,1.5809626087019985E10,10
+Shawnda Lynch Sr.,feliz,depositando,7.9250651856E8,N,1.6602132605579985E10,10
+Cassi Waters,feliz,sacando,1.29062077874E9,N,1.5311511826839985E10,10
+Cassi Waters,feliz,depositando,3.1608918878E8,N,1.5627601015619986E10,10
+Ada Ruecker,feliz,sacando,6.579904654E8,N,1.4969610550219986E10,10
+Ada Ruecker,feliz,depositando,7.530161226E8,N,1.5722626672819986E10,10
+Andrew McDermott,feliz,sacando,1.4535398253E9,N,1.4269086847519987E10,10
+Andrew McDermott,feliz,depositando,1.71257084881E9,N,1.5981657696329987E10,10
+Ada Ruecker,feliz,sacando,1.8389236002E9,N,1.4142734096129986E10,10
+Ada Ruecker,feliz,depositando,3.2947768486E8,N,1.4472211780989986E10,10
+Cassi Waters,feliz,sacando,1.7580553678E8,N,1.4296406244209986E10,10
+Cassi Waters,feliz,depositando,1.59551277074E9,N,1.5891919014949986E10,10
+Shawnda Lynch Sr.,feliz,sacando,2.02593174661E9,N,1.3865987268339985E10,10
+Shawnda Lynch Sr.,feliz,depositando,5.8614038697E8,N,1.4452127655309984E10,10
+Mr. Huong O'Hara,feliz,sacando,1.79360697877E9,N,1.2658520676539984E10,10
+Mr. Huong O'Hara,feliz,depositando,1.03040585179E9,N,1.3688926528329983E10,10
+Rolf Windler,feliz,sacando,1.00955173978E9,N,1.2679374788549982E10,10
+Rolf Windler,feliz,depositando,5.2185920055E8,N,1.3201233989099981E10,10
+Mitchel Sawayn,feliz,sacando,4.1331732696E8,N,1.2787916662139982E10,10
+Mitchel Sawayn,feliz,depositando,7.5352333911E8,N,1.3541440001249983E10,10
+Rachelle Kris,feliz,sacando,1.42325519454E9,N,1.2118184806709984E10,10
+Rachelle Kris,feliz,depositando,2.0081269809E8,N,1.2318997504799984E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.96543402492E9,N,1.0353563479879984E10,10
+Ms. Kenneth Mosciski,feliz,depositando,6.9937674235E8,N,1.1052940222229984E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.90453164307E9,N,9.148408579159985E9,10
+Annemarie Weissnat DDS,feliz,depositando,5.8212109542E8,N,9.730529674579985E9,10
+Ms. Kenneth Mosciski,feliz,sacando,1.03263937508E9,N,8.697890299499985E9,10
+Ms. Kenneth Mosciski,feliz,depositando,1.03572069878E9,N,9.733610998279985E9,10
+Rachelle Kris,feliz,sacando,5.6081970085E8,N,9.172791297429985E9,10
+Rachelle Kris,feliz,depositando,9.4752182373E8,N,1.0120313121159985E10,10
+Mitchel Sawayn,feliz,sacando,1.64200813147E9,N,8.478304989689984E9,10
+Mitchel Sawayn,feliz,depositando,1.62743264003E9,N,1.0105737629719984E10,10
+Rolf Windler,feliz,sacando,7.4569776938E8,N,9.360039860339985E9,10
+Rolf Windler,feliz,depositando,1.92321805731E9,N,1.1283257917649984E10,10
+Mr. Huong O'Hara,feliz,sacando,5.7666190562E8,N,1.0706596012029984E10,10
+Mr. Huong O'Hara,feliz,depositando,1.49354305737E9,N,1.2200139069399982E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.5461261237E8,N,1.2045526457029982E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.11824998032E9,N,1.4163776437349981E10,10
+Cassi Waters,feliz,sacando,1.18194219245E9,N,1.298183424489998E10,10
+Cassi Waters,feliz,depositando,1.30374740201E9,N,1.428558164690998E10,10
+Ada Ruecker,feliz,sacando,1.13306797785E9,N,1.315251366905998E10,10
+Ada Ruecker,feliz,depositando,1.94323354052E9,N,1.509574720957998E10,10
+Andrew McDermott,feliz,sacando,1.85735001852E9,N,1.323839719105998E10,10
+Andrew McDermott,feliz,depositando,1.88503494138E9,N,1.512343213243998E10,10
+Ada Ruecker,feliz,sacando,6.9587753843E8,N,1.442755459400998E10,10
+Ada Ruecker,feliz,depositando,1.19790736096E9,N,1.5625461954969978E10,10
+Cassi Waters,feliz,sacando,6.3405578986E8,N,1.4991406165109978E10,10
+Cassi Waters,feliz,depositando,1.11729102555E9,N,1.6108697190659977E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.00533903198E9,N,1.5103358158679977E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.2494538411E8,N,1.5328303542789978E10,10
+Mr. Huong O'Hara,feliz,sacando,7.6406289397E8,N,1.4564240648819979E10,10
+Mr. Huong O'Hara,feliz,depositando,1.47235700588E9,N,1.6036597654699978E10,10
+Rolf Windler,feliz,sacando,4.7217816423E8,N,1.5564419490469978E10,10
+Rolf Windler,feliz,depositando,1.36219652404E9,N,1.692661601450998E10,10
+Mitchel Sawayn,feliz,sacando,1.13981131374E9,N,1.578680470076998E10,10
+Mitchel Sawayn,feliz,depositando,1.81165341353E9,N,1.759845811429998E10,10
+Rachelle Kris,feliz,sacando,1.9377267894E8,N,1.740468543535998E10,10
+Rachelle Kris,feliz,depositando,2.04833568414E9,N,1.945302111949998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,3.8414411029E8,N,1.906887700920998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.20302121434E9,N,2.027189822354998E10,10
+Annemarie Weissnat DDS,feliz,sacando,8.0613656881E8,N,1.946576165473998E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.53726067492E9,N,2.100302232965998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,7341724.29,N,2.099568060536998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,2.01071487642E9,N,2.3006395481789978E10,10
+Rachelle Kris,feliz,sacando,1.60413823766E9,N,2.140225724412998E10,10
+Rachelle Kris,feliz,depositando,6.6799738807E8,N,2.2070254632199978E10,10
+Mitchel Sawayn,feliz,sacando,6.096743675E8,N,2.1460580264699978E10,10
+Mitchel Sawayn,feliz,depositando,1.65518106843E9,N,2.311576133312998E10,10
+Rolf Windler,feliz,sacando,7.8573882235E8,N,2.233002251077998E10,10
+Rolf Windler,feliz,depositando,1.7539934576E8,N,2.2505421856539978E10,10
+Mr. Huong O'Hara,feliz,sacando,1.17190386898E9,N,2.133351798755998E10,10
+Mr. Huong O'Hara,feliz,depositando,2.12524178378E9,N,2.3458759771339977E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.46266381234E9,N,2.1996095958999977E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.84327974987E9,N,2.3839375708869976E10,10
+Cassi Waters,feliz,sacando,6.6569526277E8,N,2.3173680446099976E10,10
+Cassi Waters,feliz,depositando,1.3169729596E8,N,2.3305377742059975E10,10
+Ada Ruecker,feliz,sacando,1.0916344098E8,N,2.3196214301079975E10,10
+Ada Ruecker,feliz,depositando,8.1866089858E8,N,2.4014875199659977E10,10
+Andrew McDermott,feliz,sacando,1.9715593313E9,N,2.2043315868359978E10,10
+Andrew McDermott,feliz,depositando,2.12290156776E9,N,2.4166217436119976E10,10
+Ada Ruecker,feliz,sacando,1.98682983058E9,N,2.2179387605539978E10,10
+Ada Ruecker,feliz,depositando,1.12310494954E9,N,2.330249255507998E10,10
+Cassi Waters,feliz,sacando,7.4411470531E8,N,2.2558377849769978E10,10
+Cassi Waters,feliz,depositando,1.19998538717E9,N,2.375836323693998E10,10
+Shawnda Lynch Sr.,feliz,sacando,3.3719126558E8,N,2.3421171971359978E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.6563525301E8,N,2.3686807224369976E10,10
+Mr. Huong O'Hara,feliz,sacando,6.035320451E7,N,2.3626454019859978E10,10
+Mr. Huong O'Hara,feliz,depositando,8.1629955426E8,N,2.4442753574119976E10,10
+Rolf Windler,feliz,sacando,6.9644916525E8,N,2.3746304408869976E10,10
+Rolf Windler,feliz,depositando,6.8303058713E8,N,2.4429334995999977E10,10
+Mitchel Sawayn,feliz,sacando,1.4726961702E8,N,2.4282065378979977E10,10
+Mitchel Sawayn,feliz,depositando,1.2951928628E9,N,2.5577258241779976E10,10
+Rachelle Kris,feliz,sacando,8.6567412438E8,N,2.4711584117399975E10,10
+Rachelle Kris,feliz,depositando,1.73054868134E9,N,2.6442132798739975E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.80327213931E9,N,2.4638860659429974E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.96292200383E9,N,2.660178266325997E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.57563200169E9,N,2.5026150661569973E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.273828445E7,N,2.5038888946019974E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.53086332041E9,N,2.3508025625609974E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.56720299092E9,N,2.5075228616529976E10,10
+Rachelle Kris,feliz,sacando,1.8347154818E9,N,2.3240513134729977E10,10
+Rachelle Kris,feliz,depositando,3.256431292E8,N,2.3566156263929977E10,10
+Mitchel Sawayn,feliz,sacando,5.558768935E7,N,2.351056857457998E10,10
+Mitchel Sawayn,feliz,depositando,6.6701663409E8,N,2.417758520866998E10,10
+Rolf Windler,feliz,sacando,1.47090101925E9,N,2.270668418941998E10,10
+Rolf Windler,feliz,depositando,9.7973847004E8,N,2.368642265945998E10,10
+Mr. Huong O'Hara,feliz,sacando,1.64238201797E9,N,2.204404064148998E10,10
+Mr. Huong O'Hara,feliz,depositando,1.1415271826E8,N,2.2158193359749977E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.71053673432E9,N,2.0447656625429977E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.4027377704E8,N,2.068793040246998E10,10
+Cassi Waters,feliz,sacando,3.52961023E7,N,2.065263430016998E10,10
+Cassi Waters,feliz,depositando,2.657534911E8,N,2.0918387791269978E10,10
+Ada Ruecker,feliz,sacando,1.44803562118E9,N,1.9470352170089977E10,10
+Ada Ruecker,feliz,depositando,2.1184419234E8,N,1.9682196362429977E10,10
+Andrew McDermott,feliz,sacando,8.2751678569E8,N,1.885467957673998E10,10
+Andrew McDermott,feliz,depositando,1.15779179311E9,N,2.001247136984998E10,10
+Ada Ruecker,feliz,sacando,2.02579466681E9,N,1.7986676703039978E10,10
+Ada Ruecker,feliz,depositando,3.3724504821E8,N,1.8323921751249977E10,10
+Cassi Waters,feliz,sacando,1.85365309831E9,N,1.6470268652939978E10,10
+Cassi Waters,feliz,depositando,8.3692626144E8,N,1.730719491437998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.19328564222E9,N,1.6113909272159979E10,10
+Shawnda Lynch Sr.,feliz,depositando,3.1857167372E8,N,1.6432480945879978E10,10
+Mr. Huong O'Hara,feliz,sacando,1.4081933738E8,N,1.6291661608499979E10,10
+Mr. Huong O'Hara,feliz,depositando,1.78201139874E9,N,1.807367300723998E10,10
+Rolf Windler,feliz,sacando,1.75067151981E9,N,1.632300148742998E10,10
+Rolf Windler,feliz,depositando,1.75178583219E9,N,1.807478731961998E10,10
+Mitchel Sawayn,feliz,sacando,1.8689302831E8,N,1.788789429130998E10,10
+Mitchel Sawayn,feliz,depositando,7.2481663897E8,N,1.861271093027998E10,10
+Rachelle Kris,feliz,sacando,9.1262119345E8,N,1.770008973682998E10,10
+Rachelle Kris,feliz,depositando,1.20905533121E9,N,1.8909145068039978E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.8882284605E8,N,1.862032222198998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.02863954223E9,N,1.964896176421998E10,10
+Annemarie Weissnat DDS,feliz,sacando,3.2103737648E8,N,1.932792438773998E10,10
+Annemarie Weissnat DDS,feliz,depositando,7.3692776016E8,N,2.006485214789998E10,10
+Ms. Kenneth Mosciski,feliz,sacando,3.1220901105E8,N,1.975264313684998E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.93690354294E9,N,2.1689546679789978E10,10
+Rachelle Kris,feliz,sacando,1.75443825622E9,N,1.9935108423569977E10,10
+Rachelle Kris,feliz,depositando,6.8225291748E8,N,2.0617361341049976E10,10
+Mitchel Sawayn,feliz,sacando,1.66545811619E9,N,1.8951903224859978E10,10
+Mitchel Sawayn,feliz,depositando,5.3725357454E8,N,1.948915679939998E10,10
+Rolf Windler,feliz,sacando,1.90504599459E9,N,1.758411080480998E10,10
+Rolf Windler,feliz,depositando,1.10092982968E9,N,1.868504063448998E10,10
+Mr. Huong O'Hara,feliz,sacando,1.9094695414E8,N,1.849409368034998E10,10
+Mr. Huong O'Hara,feliz,depositando,7.1776186532E8,N,1.921185554566998E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.56854413389E9,N,1.764331141177998E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.30120120318E9,N,1.894451261495998E10,10
+Cassi Waters,feliz,sacando,1.6702417764E8,N,1.877748843731998E10,10
+Cassi Waters,feliz,depositando,1.43738416097E9,N,2.021487259828998E10,10
+Ada Ruecker,feliz,sacando,5.3582032711E8,N,1.967905227117998E10,10
+Ada Ruecker,feliz,depositando,3.5662970979E8,N,2.0035681980969982E10,10
+Andrew McDermott,feliz,sacando,1.96184832655E9,N,1.8073833654419983E10,10
+Andrew McDermott,feliz,depositando,1.4693252259E9,N,1.9543158880319984E10,10
+Ada Ruecker,feliz,sacando,4.8481091453E8,N,1.9058347965789986E10,10
+Ada Ruecker,feliz,depositando,1.58217676662E9,N,2.0640524732409985E10,10
+Cassi Waters,feliz,sacando,1.80408236174E9,N,1.8836442370669983E10,10
+Cassi Waters,feliz,depositando,3.4029792015E8,N,1.9176740290819984E10,10
+Shawnda Lynch Sr.,feliz,sacando,9.5695674801E8,N,1.8219783542809986E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.11431075122E9,N,2.0334094294029987E10,10
+Mr. Huong O'Hara,feliz,sacando,1.51869699532E9,N,1.8815397298709988E10,10
+Mr. Huong O'Hara,feliz,depositando,9.0495492037E8,N,1.9720352219079987E10,10
+Rolf Windler,feliz,sacando,1.79655778086E9,N,1.7923794438219986E10,10
+Rolf Windler,feliz,depositando,1.71807190018E9,N,1.9641866338399986E10,10
+Mitchel Sawayn,feliz,sacando,6.0059501319E8,N,1.9041271325209988E10,10
+Mitchel Sawayn,feliz,depositando,8.5728093778E8,N,1.9898552262989986E10,10
+Rachelle Kris,feliz,sacando,8.1882696003E8,N,1.9079725302959988E10,10
+Rachelle Kris,feliz,depositando,1.33908952812E9,N,2.0418814831079987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,5.1066277467E8,N,1.990815205640999E10,10
+Ms. Kenneth Mosciski,feliz,depositando,7.4115352285E8,N,2.0649305579259987E10,10
+Annemarie Weissnat DDS,feliz,sacando,3.8612972357E8,N,2.0263175855689987E10,10
+Annemarie Weissnat DDS,feliz,depositando,2.09903798359E9,N,2.2362213839279987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,2.02787861735E9,N,2.033433522192999E10,10
+Ms. Kenneth Mosciski,feliz,depositando,7.23199065E8,N,2.105753428692999E10,10
+Rachelle Kris,feliz,sacando,1.2287684022E9,N,1.982876588472999E10,10
+Rachelle Kris,feliz,depositando,1.22987546614E9,N,2.1058641350869987E10,10
+Mitchel Sawayn,feliz,sacando,1.70502565559E9,N,1.9353615695279987E10,10
+Mitchel Sawayn,feliz,depositando,4.2343144095E8,N,1.977704713622999E10,10
+Rolf Windler,feliz,sacando,1.73395295831E9,N,1.8043094177919987E10,10
+Rolf Windler,feliz,depositando,1.88948932124E9,N,1.993258349915999E10,10
+Mr. Huong O'Hara,feliz,sacando,2.07079223435E9,N,1.786179126480999E10,10
+Mr. Huong O'Hara,feliz,depositando,1.51368036246E9,N,1.937547162726999E10,10
+Shawnda Lynch Sr.,feliz,sacando,4.0378102507E8,N,1.897169060219999E10,10
+Shawnda Lynch Sr.,feliz,depositando,8.6044966213E8,N,1.983214026432999E10,10
+Cassi Waters,feliz,sacando,1.51597155021E9,N,1.831616871411999E10,10
+Cassi Waters,feliz,depositando,3.1788454882E8,N,1.863405326293999E10,10
+Ada Ruecker,feliz,sacando,1.91056154499E9,N,1.6723491717949991E10,10
+Ada Ruecker,feliz,depositando,5.4849299426E8,N,1.727198471220999E10,10
+Andrew McDermott,feliz,sacando,7.586795787E8,N,1.651330513350999E10,10
+Andrew McDermott,feliz,depositando,4.0894156701E8,N,1.692224670051999E10,10
+Ada Ruecker,feliz,sacando,1.76950937637E9,N,1.515273732414999E10,10
+Ada Ruecker,feliz,depositando,1.12441966797E9,N,1.627715699211999E10,10
+Cassi Waters,feliz,sacando,3.7634089798E8,N,1.590081609413999E10,10
+Cassi Waters,feliz,depositando,9.2820188389E8,N,1.682901797802999E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.03991958821E9,N,1.5789098389819988E10,10
+Shawnda Lynch Sr.,feliz,depositando,5.5551851366E8,N,1.6344616903479988E10,10
+Mr. Huong O'Hara,feliz,sacando,1.49024278217E9,N,1.4854374121309988E10,10
+Mr. Huong O'Hara,feliz,depositando,7.1036326728E8,N,1.5564737388589989E10,10
+Rolf Windler,feliz,sacando,1.44488888363E9,N,1.4119848504959988E10,10
+Rolf Windler,feliz,depositando,5.8776353766E8,N,1.4707612042619987E10,10
+Mitchel Sawayn,feliz,sacando,1.85429347078E9,N,1.2853318571839987E10,10
+Mitchel Sawayn,feliz,depositando,2.00176304448E9,N,1.4855081616319986E10,10
+Rachelle Kris,feliz,sacando,4.1966549856E8,N,1.4435416117759987E10,10
+Rachelle Kris,feliz,depositando,6.8355124727E8,N,1.5118967365029987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.587519974E7,N,1.5103092165289988E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.67836118206E9,N,1.6781453347349987E10,10
+Annemarie Weissnat DDS,feliz,sacando,5.8980846962E8,N,1.6191644877729986E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.57227949962E9,N,1.7763924377349987E10,10
+Ms. Kenneth Mosciski,feliz,sacando,7.0147538643E8,N,1.7062448990919987E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.8182363705E8,N,1.7244272627969986E10,10
+Rachelle Kris,feliz,sacando,2.08840939436E9,N,1.5155863233609985E10,10
+Rachelle Kris,feliz,depositando,1.29763640444E9,N,1.6453499638049986E10,10
+Mitchel Sawayn,feliz,sacando,2.08637645089E9,N,1.4367123187159986E10,10
+Mitchel Sawayn,feliz,depositando,1.29931324886E9,N,1.5666436436019987E10,10
+Rolf Windler,feliz,sacando,1.2701480169E8,N,1.5539421634329987E10,10
+Rolf Windler,feliz,depositando,1.64725371383E9,N,1.718667534815999E10,10
+Mr. Huong O'Hara,feliz,sacando,1.0528881994E9,N,1.6133787148759989E10,10
+Mr. Huong O'Hara,feliz,depositando,6.8969902219E8,N,1.682348617094999E10,10
+Shawnda Lynch Sr.,feliz,sacando,1.18333293931E9,N,1.564015323163999E10,10
+Shawnda Lynch Sr.,feliz,depositando,1.28192479165E9,N,1.692207802328999E10,10
+Cassi Waters,feliz,sacando,4.3154590112E8,N,1.6490532122169989E10,10
+Cassi Waters,feliz,depositando,1.70765082107E9,N,1.819818294323999E10,10
+Ada Ruecker,feliz,sacando,9613748.89,N,1.818856919434999E10,10
+Ada Ruecker,feliz,depositando,5.7086646021E8,N,1.875943565455999E10,10
+Andrew McDermott,feliz,sacando,1.395070092E7,N,1.874548495363999E10,10
+Andrew McDermott,feliz,depositando,9.0007937384E8,N,1.9645564327479992E10,10
+Ada Ruecker,feliz,sacando,6.5256087788E8,N,1.899300344959999E10,10
+Ada Ruecker,feliz,depositando,5.7967948347E8,N,1.9572682933069992E10,10
+Cassi Waters,feliz,sacando,9.6285644333E8,N,1.860982648973999E10,10
+Cassi Waters,feliz,depositando,1.31115338386E9,N,1.992097987359999E10,10
+Shawnda Lynch Sr.,feliz,sacando,7.5093725616E8,N,1.917004261743999E10,10
+Shawnda Lynch Sr.,feliz,depositando,2.13890451775E9,N,2.130894713518999E10,10
+Mr. Huong O'Hara,feliz,sacando,1.52275307291E9,N,1.978619406227999E10,10
+Mr. Huong O'Hara,feliz,depositando,1.90379691208E9,N,2.1689990974359993E10,10
+Rolf Windler,feliz,sacando,1.65335797997E9,N,2.003663299438999E10,10
+Rolf Windler,feliz,depositando,4.116101523E7,N,2.007779400961999E10,10
+Mitchel Sawayn,feliz,sacando,2.01809209259E9,N,1.805970191702999E10,10
+Mitchel Sawayn,feliz,depositando,8.189605883E8,N,1.887866250532999E10,10
+Rachelle Kris,feliz,sacando,9.3082505667E8,N,1.7947837448659992E10,10
+Rachelle Kris,feliz,depositando,8.502870232E8,N,1.8798124471859993E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.4180272359E9,N,1.738009723595999E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.47246565704E9,N,1.8852562892999992E10,10
+Annemarie Weissnat DDS,feliz,sacando,1.72344329033E9,N,1.7129119602669992E10,10
+Annemarie Weissnat DDS,feliz,depositando,1.42679506621E9,N,1.8555914668879993E10,10
+Ms. Kenneth Mosciski,feliz,sacando,1.55290880487E9,N,1.7003005864009995E10,10
+Ms. Kenneth Mosciski,feliz,depositando,1.61745030003E9,N,1.8620456164039993E10,10
+Rachelle Kris,feliz,sacando,6.7418898122E8,N,1.7946267182819992E10,10
